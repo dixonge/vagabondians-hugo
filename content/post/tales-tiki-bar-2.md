@@ -1,5 +1,5 @@
 ---
-title: 'Tales From the Tiki Bar #2'
+title: 'Tales From the Tiki Bar - 2'
 date: 2011-05-08
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
