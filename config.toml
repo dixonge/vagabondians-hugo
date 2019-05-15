@@ -1,0 +1,96 @@
+baseurl         = "https://vagabondians.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "vagabondians"
+paginate        = 10
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Vagabondians"
+  subtitle    = "Escape Normal - Explore Your World"
+  copyright   = "© Vagabondians - Glenn and Bryn Dixon"
+
+  cover       = "/images/Vagabondians-Header-Large.jpg"
+  description = "Escape Normal - Explore Your World"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = [true]
+  RSSLink = ""
+
+#  twitterName = "faketryghost"
+#  fbName = "fakeghost"
+#  githubName = "eueung"
+#  linkedinName = "eueung"
+#  mediumName = ""
+
+  logo = "apple-touch-icon-transparent.png"
+#  orgName = "Vagabondians"
+#  orgWebsite = "https://www.telematika.org"
+#  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "Glenn"
+  authorAvatar = "/images/avatar.jpg"
+  authorLocation = "Zacatecas, Mexico"
+  authorWebsite = "https://glenn.thedixons.net"
+  authorDescription = "Retired I.T. nerd - expat in Mexico"
+  
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "About Us"
+  url = "about/"
+  weight = 190
+
+[[menu.main]]
+  name = "Latest News"
+  url = "categories/news"
+  weight = 180
+
+[[menu.main]]
+  name = "Six Months in a Popup"
+  url = "categories/sixmonths"
+  weight = 170
+
+[[menu.main]]
+  name = "Tales From the Tiki Bar"
+  url = "categories/tales-from-the-tiki-bar"
+  weight = 160
+
+[[menu.main]]
+  name = "Central America"
+  url = "categories/centralamerica"
+  weight = 150
+
+[[menu.main]]
+  name = "Mexico"
+  url = "categories/mexico"
+  weight = 140
+
+[[menu.main]]
+  name = "Other Journeys"
+  url = "categories/miscellaneous"
+  weight = 130
+
+[[menu.main]]
+  name = "All Tags"
+  url = "/tags/"
+  weight = 100
+
+[[menu.main]]
+  name = "All Categories"
+  url = "/categories/"
+  weight = 99
