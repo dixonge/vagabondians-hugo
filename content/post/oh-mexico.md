@@ -3,7 +3,7 @@ title: Oh, Mexico
 date: 2012-03-01
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /oh-mexico/
 image:  /images/mexico2.jpg
 categories:

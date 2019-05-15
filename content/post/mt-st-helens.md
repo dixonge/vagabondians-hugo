@@ -3,7 +3,7 @@ title: Mt. St. Helens
 date: 2011-08-26
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /mt-st-helens/
 image:  /images/2011/08/mtsthelens.jpg
 dsq_thread_id:

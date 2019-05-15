@@ -3,7 +3,7 @@ title: I Feel the Earth ~~ Move ~~ Under My Feet
 date: 2012-04-12
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /feel-earth-move-feet/
 image:  /images/quakezone1.gif
 categories:

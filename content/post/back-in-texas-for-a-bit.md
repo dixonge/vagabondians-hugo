@@ -3,7 +3,7 @@ title: Back in Texas for a Bit
 date: 2013-03-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /back-in-texas-for-a-bit/
 image:  /images/back-in-texas.jpg
 categories:

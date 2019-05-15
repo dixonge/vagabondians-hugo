@@ -3,7 +3,7 @@ title: Digital Farmers
 date: 2011-02-08
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /digital-farmers/
 image:  /images/2011/02/digitalfarmer.jpg
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: 'Orquideas Moxviquil -- Orchid and Botanical Conservatory'
 date: 2012-10-03
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /orquideas-moxviquil-orchid-and-botanical-conservatory/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

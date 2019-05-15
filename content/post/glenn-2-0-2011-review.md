@@ -3,7 +3,7 @@ title: 'Glenn 2.0 -- 2011 in Review'
 date: 2012-01-09
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /glenn-2-0-2011-review/
 image:  /images/Glenn2.0.jpg
 categories:

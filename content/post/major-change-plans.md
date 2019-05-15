@@ -3,7 +3,7 @@ title: A Major Change in Plans
 date: 2011-01-14
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /major-change-plans/
 image:  /images/2011/01/camping.jpg
 categories:

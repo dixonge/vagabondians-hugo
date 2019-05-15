@@ -3,7 +3,7 @@ title: Tails from the Tiki Bar
 date: 2011-05-31
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tails-tiki-bar/
 image:  /images/2011/05/Wolf1.jpg
 categories:

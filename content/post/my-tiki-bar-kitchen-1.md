@@ -3,7 +3,7 @@ title: 'MY TIKI BAR KITCHEN -- 1'
 date: 2012-06-09
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /my-tiki-bar-kitchen-1/
 image:  /images/tikibar.jpg
 dsq_thread_id:

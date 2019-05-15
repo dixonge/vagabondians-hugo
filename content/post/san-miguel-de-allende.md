@@ -3,7 +3,7 @@ title: San Miguel de Allende
 date: 2012-07-07
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /san-miguel-de-allende/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: 'The Cars of Mexico -- Good Enough -- Part 1'
 date: 2012-08-11
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /the-cars-of-mexico-good-enough-1/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

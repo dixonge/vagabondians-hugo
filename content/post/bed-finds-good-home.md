@@ -3,7 +3,7 @@ title: Our Bed Finds a Good Home
 date: 2011-01-24
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bed-finds-good-home/
 image:  /images/2011/02/oldbed.jpg
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: 'Dear Apple: Goodbye!'
 date: 2013-04-16
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 excerpt: Why we are leaving Apple products for Google and Linux, and how we are doing it.
 permalink: /dear-apple-goodbye/
 image:  /images/dear-apple.png

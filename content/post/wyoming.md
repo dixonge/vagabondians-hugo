@@ -3,7 +3,7 @@ title: Wyoming
 date: 2011-10-09
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wyoming/
 image:  /images/2011/10/Wyoming.jpg
 categories:

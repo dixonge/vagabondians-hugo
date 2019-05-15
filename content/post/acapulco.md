@@ -3,7 +3,7 @@ title: Acapulco!
 date: 2012-08-23
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /acapulco/
 image:  /images/teaser-mexico.jpg
 categories:

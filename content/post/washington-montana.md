@@ -3,7 +3,7 @@ title: Washington to Montana
 date: 2011-09-13
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /washington-montana/
 image:  /images/2011/09/WashMont.jpg
 categories:

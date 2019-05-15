@@ -3,7 +3,7 @@ title: The Adventure Takes Shape
 date: 2011-03-15
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /adventure-takes-shape/
 image:  /images/2011/03/Road-Trip-2011-Part-1-Google-Maps.jpg
 categories:

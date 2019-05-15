@@ -3,7 +3,7 @@ title: Medicine in Mexico
 date: 2012-03-28
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /medicine-mexico/
 image:  /images/medical.jpg
 categories:

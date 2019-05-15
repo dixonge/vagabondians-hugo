@@ -3,7 +3,7 @@ title: Williams, Arizona
 date: 2011-06-17
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /williams-arizona/
 image:  /images/2011/06/horsies.jpg
 dsq_thread_id:

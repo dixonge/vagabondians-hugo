@@ -3,7 +3,7 @@ title: Albuquerque, New Mexico -- May 3-8
 date: 2011-06-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /albuquerque-mexico-3-8/
 image:  /images/2011/06/RoxiNewMexico.jpg
 categories:

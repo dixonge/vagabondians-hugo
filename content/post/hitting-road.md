@@ -3,7 +3,7 @@ title: Hitting the Road
 date: 2011-04-17
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /hitting-road/
 image:  /images/2011/04/LongTimeScreenCap.jpg
 categories:

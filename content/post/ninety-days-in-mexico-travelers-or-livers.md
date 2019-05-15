@@ -3,7 +3,7 @@ title: 'Ninety Days In Mexico -- Travelers or Livers?'
 date: 2012-05-15
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /ninety-days-in-mexico-travelers-or-livers/
 image:  /images/liver.jpg
 dsq_thread_id:

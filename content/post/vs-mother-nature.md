@@ -3,7 +3,7 @@ title: Us vs. Mother Nature
 date: 2011-05-02
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vs-mother-nature/
 image:  /images/2011/05/P1090122.jpg
 categories:

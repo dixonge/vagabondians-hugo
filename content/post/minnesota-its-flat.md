@@ -3,7 +3,7 @@ title: Minnesota -- It's Flat!
 date: 2011-10-17
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /minnesota-its-flat/
 image:  /images/2011/10/MinnesotaFlat.jpg
 categories:

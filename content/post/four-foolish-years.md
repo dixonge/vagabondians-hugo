@@ -3,7 +3,7 @@ title: Four Foolish Years
 date: 2014-04-01
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /four-foolish-years/
 image:  /images/four-foolish-years.jpg
 dsq_thread_id:

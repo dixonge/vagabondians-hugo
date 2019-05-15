@@ -3,7 +3,7 @@ title: Stuff
 date: 2010-07-03
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /stuff/
 image:  /images/hoarder-1.jpg
 categories:

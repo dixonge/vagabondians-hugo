@@ -3,7 +3,7 @@ title: Exit, Stage Right!
 date: 2011-04-04
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /exit-stage-right/
 image:  /images/2011/04/exitstageright.jpg
 categories:

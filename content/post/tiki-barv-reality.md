@@ -3,7 +3,7 @@ title: 'The Tiki BaRV -- a Reality!'
 date: 2011-05-22
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tiki-barv-reality/
 image:  /images/2011/05/roxi.jpg
 dsq_thread_id:

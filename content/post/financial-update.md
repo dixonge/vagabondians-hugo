@@ -3,7 +3,7 @@ title: Financial Update
 date: 2011-09-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /financial-update/
 image:  /images/2011/09/money.jpg
 categories:

@@ -3,7 +3,7 @@ title: Happy New Year! Time's A'wastin'!
 date: 2011-12-31
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /happy-year-times-awastin/
 image:  /images/fireworks.jpeg
 categories:

@@ -3,7 +3,7 @@ title: Communications On The Road
 date: 2010-12-16
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road/
 image:  /images/SANY0001.jpg
 categories:

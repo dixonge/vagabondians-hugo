@@ -3,7 +3,7 @@ title: Well We're Leavin' on a Jet Plane…
 date: 2012-02-19
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /leavin-jet-plane/
 image:  /images/jetplane.jpg
 categories:

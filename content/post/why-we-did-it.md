@@ -3,7 +3,7 @@ title: Why We Did It
 date: 2011-04-16
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /why-we-did-it/
 image:  /images/2011/04/P1000564.jpg
 categories:

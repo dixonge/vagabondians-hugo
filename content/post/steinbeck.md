@@ -3,7 +3,7 @@ title: From Steinbeck?
 date: 2014-01-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /steinbeck/
 image:  /images/from-steinbeck.jpg
 categories:

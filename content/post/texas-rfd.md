@@ -3,7 +3,7 @@ title: Anywhere in Texas, RFD
 date: 2011-11-08
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /texas-rfd/
 image:  /images/2011/11/texas.jpg
 categories:

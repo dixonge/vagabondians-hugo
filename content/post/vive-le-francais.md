@@ -3,7 +3,7 @@ title: Vive les Français!
 date: 2011-05-24
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vive-le-francais/
 image:  /images/2011/05/french2.jpg
 categories:

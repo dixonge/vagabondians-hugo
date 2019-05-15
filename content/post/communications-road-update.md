@@ -3,7 +3,7 @@ title: 'Communications on the Road:  Update'
 date: 2011-05-08
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road-update/
 image:  /images/2011/05/P1080521.jpg
 categories:

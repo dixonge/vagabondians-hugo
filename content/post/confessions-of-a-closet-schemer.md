@@ -3,7 +3,7 @@ title: Confessions of a Closet Schemer
 date: 2012-10-17
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /confessions-of-a-closet-schemer/
 image:  /images/closet-schemer.jpg
 categories:

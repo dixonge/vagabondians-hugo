@@ -3,7 +3,7 @@ title: The Lost Coast
 date: 2011-08-13
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /lost-coast/
 image:  /images/2011/08/LostCoast.jpg
 dsq_thread_id:

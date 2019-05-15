@@ -3,7 +3,7 @@ title: 'The Leopold Center -- Baraboo, Wisconsin'
 date: 2011-12-06
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /leopold-center-baraboo-wisconsin/
 image:  /images/leopold.jpg
 dsq_thread_id:

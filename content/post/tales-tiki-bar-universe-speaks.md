@@ -3,7 +3,7 @@ title: 'Tales from the Tiki Bar:  The Universe Speaks!'
 date: 2011-07-03
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-universe-speaks/
 image:  /images/2011/07/universe.jpg
 categories:

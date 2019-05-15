@@ -3,7 +3,7 @@ title: A Year Outside The USA
 date: 2014-07-02
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /year-outside-usa/
 image:  /images/year-outside.jpg
 dsq_thread_id:

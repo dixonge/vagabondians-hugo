@@ -3,7 +3,7 @@ title: A Taste of Texas old style
 date: 2013-03-28
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /a-taste-of-texas-old-style/
 image:  /images/taste-of-texas.jpg
 categories:

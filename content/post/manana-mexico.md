@@ -3,7 +3,7 @@ title: Mañana in Mexico
 date: 2012-03-24
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /manana-mexico/
 image:  /images/manana.jpg
 dsq_thread_id:

@@ -3,7 +3,7 @@ title: A Special Whale
 date: 2011-08-19
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /special-whale/
 image:  /images/2011/08/whale.jpg
 categories:

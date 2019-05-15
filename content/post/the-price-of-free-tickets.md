@@ -3,7 +3,7 @@ title: The Price of Free Tickets
 date: 2013-06-30
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /the-price-of-free-tickets/
 image:  /images/price-of-free.jpg
 categories:

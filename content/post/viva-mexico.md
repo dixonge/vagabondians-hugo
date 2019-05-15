@@ -3,7 +3,7 @@ title: Viva Mexico!
 date: 2012-01-26
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /viva-mexico/
 image:  /images/mexico.jpg
 categories:

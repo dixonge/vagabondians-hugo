@@ -3,7 +3,6 @@ title: Oregon Coast
 date: 2011-08-25
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /oregon-coast/
 image:  /images/2011/08/oregoncoast.jpg
 categories:

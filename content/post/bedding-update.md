@@ -3,7 +3,7 @@ title: Another day, another bed
 date: 2011-01-31
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bedding-update/
 image:  /images/2011/02/P1070850.jpg
 categories:

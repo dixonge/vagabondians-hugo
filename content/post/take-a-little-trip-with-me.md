@@ -3,7 +3,7 @@ title: Take a Little Trip with Me
 date: 2012-12-26
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /take-a-little-trip-with-me/
 image:  /images/teaser-mexico.jpg 
 categories:

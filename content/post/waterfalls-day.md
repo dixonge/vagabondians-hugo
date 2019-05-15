@@ -3,7 +3,7 @@ title: Waterfalls Day!
 date: 2013-01-08
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /waterfalls-day/
 image:  /images/teaser-mexico.jpg
 categories:

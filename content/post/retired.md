@@ -4,7 +4,7 @@ date: 2019-05-08
 permalink: /retired/
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 image: /images/retired.jpg
 categories: 
 - news

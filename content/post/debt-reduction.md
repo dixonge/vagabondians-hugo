@@ -3,7 +3,7 @@ title: Debt Reduction
 date: 2010-11-13
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /debt-reduction/
 image:  /images/debt-1.jpg
 categories:

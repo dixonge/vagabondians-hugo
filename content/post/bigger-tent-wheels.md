@@ -3,7 +3,7 @@ title: 'A Bigger Tent -- on Wheels'
 date: 2011-05-22
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bigger-tent-wheels/
 image:  /images/2011/05/Trailer.jpg
 dsq_thread_id:

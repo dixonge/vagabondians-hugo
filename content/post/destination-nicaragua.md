@@ -3,7 +3,7 @@ title: 'Destination: Nicaragua'
 date: 2013-06-12
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /destination-nicaragua/
 image:  /images/nicaragua.png
 categories:

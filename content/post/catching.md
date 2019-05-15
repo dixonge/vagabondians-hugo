@@ -3,7 +3,7 @@ title: Catching Up
 date: 2011-06-08
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /catching/
 image:  /images/2011/06/vagabond.jpg
 categories:

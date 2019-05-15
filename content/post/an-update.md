@@ -3,7 +3,7 @@ title: "An update"
 date: "2015-07-04"
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: "/an-update/"
 categories:
 - News

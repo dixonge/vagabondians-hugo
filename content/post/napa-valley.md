@@ -3,7 +3,7 @@ title: Napa Valley
 date: 2011-08-01
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /napa-valley/
 image:  /images/2011/08/napavalley.jpg
 categories:

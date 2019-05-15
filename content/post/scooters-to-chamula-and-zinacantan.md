@@ -3,7 +3,7 @@ title: Scooters to Chamula and Zinacantan
 date: 2012-09-21
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /scooters-to-chamula-and-zinacantan/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

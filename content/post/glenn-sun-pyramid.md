@@ -3,7 +3,7 @@ title: Glenn on the Sun Pyramid
 date: 2014-03-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /glenn-sun-pyramid/
 image:  /images/sun-pyramid.jpg
 dsq_thread_id:

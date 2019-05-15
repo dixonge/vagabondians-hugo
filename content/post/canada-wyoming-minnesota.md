@@ -3,7 +3,7 @@ title: 'Almost Canada -- Wyoming to Minnesota'
 date: 2011-10-13
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /canada-wyoming-minnesota/
 image:  /images/2011/10/WY2MN.jpg
 categories:

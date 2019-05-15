@@ -3,7 +3,7 @@ title: We Woke up in Nicaragua!
 date: 2013-06-30
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /we-woke-up-in-nicaragua/
 image:  /images/we-woke-up.jpg
 categories:

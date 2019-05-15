@@ -3,7 +3,7 @@ title: 'Clothes Shopping in the Big City -- Guadalajara, Jalisco, MX'
 date: 2012-06-17
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /clothes-shopping-in-the-big-city-guadalajara/
 image:  /images/shopping.jpg
 dsq_thread_id:

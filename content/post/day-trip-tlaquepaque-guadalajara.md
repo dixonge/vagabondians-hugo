@@ -3,7 +3,7 @@ title: 'Day Trip!  Tlaquepaque/Guadalajara'
 date: 2012-04-23
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /day-trip-tlaquepaque-guadalajara/
 image:  /images/tlaquepaque.jpg
 dsq_thread_id:

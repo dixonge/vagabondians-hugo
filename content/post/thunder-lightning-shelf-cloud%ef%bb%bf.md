@@ -3,7 +3,7 @@ title: Thunder! Lightning! Shelf cloud!﻿
 date: 2014-03-26
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /thunder-lightning-shelf-cloud%ef%bb%bf/
 image:  /images/shelf-cloud.jpg
 categories:

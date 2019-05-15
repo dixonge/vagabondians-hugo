@@ -3,7 +3,7 @@ title: '2013 -- A Brief Summary'
 date: 2014-01-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /2013-a-brief-summary/
 image: /images/brief-summary.jpg
 categories:

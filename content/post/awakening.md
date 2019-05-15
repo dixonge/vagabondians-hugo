@@ -3,7 +3,7 @@ title: Awakening
 date: 2012-07-04
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /awakening/
 image:  /images/awakening.jpg
 categories:

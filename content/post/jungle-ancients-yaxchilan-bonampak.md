@@ -3,7 +3,7 @@ title: 'Jungle Ancients:  Yaxchilan, Bonampak'
 date: 2013-01-05
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /jungle-ancients-yaxchilan-bonampak/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

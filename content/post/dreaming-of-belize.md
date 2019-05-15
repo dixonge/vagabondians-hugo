@@ -3,7 +3,7 @@ title: Dreaming of Belize
 date: 2010-06-26
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /dreaming-of-belize/
 image:  /images/belize-1.jpg
 categories:

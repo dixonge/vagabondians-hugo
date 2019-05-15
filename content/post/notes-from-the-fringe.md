@@ -3,7 +3,7 @@ title: Notes From the Fringe
 date: 2010-06-23
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /notes-from-the-fringe/
 image:  /images/redpill-1.jpg
 categories:

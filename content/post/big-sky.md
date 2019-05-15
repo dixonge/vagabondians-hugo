@@ -3,7 +3,7 @@ title: Under the Big Sky
 date: 2011-09-20
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-sky/
 image:  /images/2011/09/montana.jpg
 categories:

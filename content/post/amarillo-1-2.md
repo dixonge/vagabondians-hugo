@@ -3,7 +3,7 @@ title: 'Amarillo -- May 1 and 2'
 date: 2011-06-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /amarillo-1-2/
 image:  /images/2011/06/Guppy.jpg
 categories:

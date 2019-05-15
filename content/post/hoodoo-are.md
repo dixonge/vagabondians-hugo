@@ -3,7 +3,7 @@ title: Hoodoo You Think You Are?
 date: 2011-06-30
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /hoodoo-are/
 image:  /images/2011/06/brycehoodoo.jpg
 categories:

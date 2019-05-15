@@ -3,7 +3,7 @@ title: Bryce Canyon
 date: 2011-07-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /bryce-canyon/
 image:  /images/2011/08/BryceCanyon.jpg
 dsq_thread_id:

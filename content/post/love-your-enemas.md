@@ -3,7 +3,7 @@ title: Love Your Enemas
 date: 2013-08-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /love-your-enemas/
 image:  /images/enema.jpg
 dsq_thread_id:

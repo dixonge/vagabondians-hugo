@@ -3,7 +3,7 @@ title: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /legend-johnny-vagabond/
 dsq_thread_id:
   - 3268641043

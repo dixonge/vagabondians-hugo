@@ -3,7 +3,7 @@ title: Just a quick update
 date: 2013-05-14
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /just-a-quick-update/
 image:  /images/quick-update.jpg
 categories:

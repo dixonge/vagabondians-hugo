@@ -5,7 +5,7 @@ date: 2019-05-11
 permalink: /monarchs-in-mexico/
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 image: /images/
 categories: 
 - mexico

@@ -3,7 +3,7 @@ title: Visit to Guatemala
 date: 2012-08-30
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /visit-to-guatemala/
 image:  /images/guatemala.jpg
 dsq_thread_id:

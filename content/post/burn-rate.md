@@ -3,7 +3,7 @@ title: Burn Rate
 date: 2013-08-20
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /burn-rate/
 image:  /images/burn-rate.png
 dsq_thread_id:

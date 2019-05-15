@@ -3,7 +3,7 @@ title: Escaping the System
 date: 2011-03-25
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /escaping-system/
 image:  /images/2011/03/escapeesSmall.jpg
 dsq_thread_id:

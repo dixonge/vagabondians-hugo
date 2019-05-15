@@ -3,7 +3,7 @@ title: Halloween Parade in San Cristobal de las Casas, Mexico
 date: 2014-01-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /halloween-parade-in-san-cristobal-de-las-casas-mexico/
 image:  /images/halloween-parade.png
 categories:

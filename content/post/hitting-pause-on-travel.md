@@ -3,7 +3,7 @@ title: "Hitting Pause on Travel"
 date: "2015-11-27"
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: "/hitting-pause-on-travel/"
 categories:
 - News

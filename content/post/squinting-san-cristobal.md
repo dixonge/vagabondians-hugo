@@ -3,7 +3,7 @@ title: Squinting in San Cristobal
 date: 2013-08-25
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /squinting-san-cristobal/
 image:  /images/squinting.jpg
 categories:

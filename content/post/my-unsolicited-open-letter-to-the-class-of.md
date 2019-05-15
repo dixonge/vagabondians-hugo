@@ -3,7 +3,7 @@ title: My Unsolicited Open Letter to the Class of ________
 date: 2012-06-03
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /my-unsolicited-open-letter-to-the-class-of/
 image:  /images/flinch.jpg
 categories:

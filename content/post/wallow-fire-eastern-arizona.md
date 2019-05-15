@@ -3,7 +3,7 @@ title: 'Wallow Fire -- Eastern Arizona'
 date: 2011-06-10
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wallow-fire-eastern-arizona/
 image:  /images/2011/06/SunSmoke.jpg
 categories:

@@ -3,7 +3,7 @@ title: Puerto Escondido
 date: 2012-08-25
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /puerto-escondido-2/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

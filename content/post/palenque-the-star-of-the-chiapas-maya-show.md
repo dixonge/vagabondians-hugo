@@ -3,7 +3,7 @@ title: 'Palenque -- the Star of the Chiapas Maya Show'
 date: 2013-01-10
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /palenque-the-star-of-the-chiapas-maya-show/
 image:  /images/palenque-star.jpg
 categories:

@@ -3,7 +3,7 @@ title: Death in Mexico!
 date: 2013-10-30
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /death-mexico/
 image:  /images/death-mexico.jpg
 dsq_thread_id:

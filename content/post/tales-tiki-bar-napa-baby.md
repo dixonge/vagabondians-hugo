@@ -3,7 +3,7 @@ title: 'Tales from the Tiki Bar:  Napa Valley, baby!'
 date: 2011-07-29
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-napa-baby/
 image:  /images/2011/07/napa.jpg
 dsq_thread_id:

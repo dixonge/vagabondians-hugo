@@ -3,7 +3,7 @@ title: Learning to Chill
 date: 2011-06-01
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /learning-chill/
 image:  /images/2011/06/UseExtremeCaution.jpg
 categories:

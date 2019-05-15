@@ -3,7 +3,7 @@ title: 'Tales from the Tiki Bar:  Awesome People'
 date: 2011-07-10
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-awesome-people/
 image:  /images/2011/07/water.jpg
 categories:

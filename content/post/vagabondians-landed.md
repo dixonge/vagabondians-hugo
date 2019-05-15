@@ -3,7 +3,7 @@ title: The Vagabondians Have Landed
 date: 2014-11-22
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vagabondians-landed/
 categories:
   - Mexico

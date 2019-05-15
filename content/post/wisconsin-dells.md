@@ -3,7 +3,7 @@ title: Wisconsin and the Dells
 date: 2011-11-07
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /wisconsin-dells/
 image:  /images/2011/11/Wisconsin.jpg
 categories:

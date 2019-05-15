@@ -2,7 +2,7 @@
 title: Saripiqui River and Canopy Tour
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 date: 2014-06-11
 permalink: /saripiqui-river-canopy-tour/
 image:  /images/sarapiqui.jpg

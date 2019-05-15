@@ -3,7 +3,7 @@ title: Tales from Vagabondia, the Ancient Way
 date: 2011-06-01
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tales-vagabondia/
 image:  /images/2011/06/AncientWay.jpg
 categories:

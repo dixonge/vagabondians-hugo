@@ -3,7 +3,7 @@ title: Grove of Titans
 date: 2011-08-22
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /grove-titans/
 image:  /images/2011/08/trees.jpg
 dsq_thread_id:

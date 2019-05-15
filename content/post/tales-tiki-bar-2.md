@@ -3,7 +3,7 @@ title: 'Tales From the Tiki Bar #2'
 date: 2011-05-08
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-2/
 image:  /images/2011/05/P1090389-Version-2.jpg
 categories:

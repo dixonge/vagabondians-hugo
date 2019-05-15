@@ -3,7 +3,7 @@ title: 'Big Bend National Park -- 1991'
 date: 2014-01-27
 author: "Glenn"
 authorAvatar: "/images/avatar.jpg"
-  desc: "Retired I.T. nerd - Mexpat - vegan"
+# desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-bend-national-park-1991/
 categories:
   - Miscellaneous

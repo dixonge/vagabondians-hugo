@@ -3,7 +3,7 @@ title: 'San Cristobal de las Casas -- Second City'
 date: 2012-09-19
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /san-cristobal-de-las-casas-second-city/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:

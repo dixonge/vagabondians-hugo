@@ -3,7 +3,7 @@ title: Escape from Managua, Nicaragua
 date: 2013-07-21
 author: "Bryn"
 authorAvatar: "/images/bryn.jpg"
-  desc: "Court reporter turned internet bum"
+# desc: "Court reporter turned internet bum"
 permalink: /escape-from-managua-nicaragua/
 image:  /images/escape.jpg
 dsq_thread_id:
