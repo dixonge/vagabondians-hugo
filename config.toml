@@ -10,12 +10,11 @@ canonifyurls    = true
   title       = "Vagabondians"
   subtitle    = "Escape Normal - Explore Your World"
   copyright   = "© Vagabondians - Glenn and Bryn Dixon"
-
   cover       = "/images/Vagabondians-Header-Large.jpg"
   description = "Escape Normal - Explore Your World"
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = [true]
+  customCSS = ["custom.css"]
   RSSLink = ""
 
 #  twitterName = "faketryghost"
@@ -43,7 +42,7 @@ canonifyurls    = true
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/post/:slug/"
+  post = "/:slug/"
 
 [[menu.main]]
   name = "Home"
@@ -52,37 +51,37 @@ canonifyurls    = true
 
 [[menu.main]]
   name = "About Us"
-  url = "about/"
+  url = "/about/"
   weight = 190
 
 [[menu.main]]
   name = "Latest News"
-  url = "categories/news"
+  url = "/categories/news"
   weight = 180
 
 [[menu.main]]
   name = "Six Months in a Popup"
-  url = "categories/sixmonths"
+  url = "/categories/sixmonths"
   weight = 170
 
 [[menu.main]]
   name = "Tales From the Tiki Bar"
-  url = "categories/tales-from-the-tiki-bar"
+  url = "/categories/tales-from-the-tiki-bar"
   weight = 160
 
 [[menu.main]]
   name = "Central America"
-  url = "categories/centralamerica"
+  url = "/categories/centralamerica"
   weight = 150
 
 [[menu.main]]
   name = "Mexico"
-  url = "categories/mexico"
+  url = "/categories/mexico"
   weight = 140
 
 [[menu.main]]
   name = "Other Journeys"
-  url = "categories/miscellaneous"
+  url = "/categories/miscellaneous"
   weight = 130
 
 [[menu.main]]

@@ -1,0 +1,16 @@
+.site-header {
+    background-size: contain!important;
+    background: #090a0b no-repeat;
+}
+.site-header-content {
+    padding: 4vw;
+}
+.home-template .site-header-content {
+    padding: 4vw;
+    display: inline-block;
+    text-align: left; 
+    margin: 0 0 0 -160px;
+}
+.post-card-image {
+    background-size: contain;
+}
