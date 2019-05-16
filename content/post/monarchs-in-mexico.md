@@ -34,8 +34,6 @@ Here is a slideshow of our pictures from the trip:
 
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157690840806233" title="Monarchs In Mexico"><img src="https://live.staticflickr.com/65535/32779317427_75f26e2843_b.jpg" width="1024" height="683" alt="Monarchs In Mexico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Here is the video I put together - worth a small five-minute investment, I hope:
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vagabondians/40801338433/in/album-72157690840806233/" title="Monarchs in Mexico"><img src="https://live.staticflickr.com/31337/40801338433_031fc1d356_o.jpg" width="1620" height="1080" alt="Monarchs in Mexico"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Here is the video I put together - worth a small five-minute investment, I hope. You will have to watch it on the Flickr web site. To see it, [CLICK HERE](https://flic.kr/p/25atwqi)
 
 If you want to get alerts and little snippets in-between blog posts, sign up for our newsletter. We sell nothing, just provide updates on our journey. You can sign up here: [Vagabondians Stories](https://vagabondians.substack.com/)
