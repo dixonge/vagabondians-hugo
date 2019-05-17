@@ -2,6 +2,7 @@
 title: "An update"
 date: "2015-07-04"
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: "/an-update/"

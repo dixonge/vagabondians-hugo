@@ -2,6 +2,7 @@
 title: 'Slomo -- Another One Escapes Normal'
 date: 2014-04-02
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /slomo-another-one-escapes-normal/

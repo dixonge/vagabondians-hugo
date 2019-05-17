@@ -2,6 +2,7 @@
 title: Visit to Guatemala
 date: 2012-08-30
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /visit-to-guatemala/

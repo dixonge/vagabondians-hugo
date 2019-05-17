@@ -2,6 +2,7 @@
 title: 'Musings On Being Homeless after 7 Months'
 date: 2012-01-04
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /musings-homeless/

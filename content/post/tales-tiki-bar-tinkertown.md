@@ -2,6 +2,7 @@
 title: Tales from the Tiki Bar, Tinkertown
 date: 2011-06-05
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /tales-tiki-bar-tinkertown/

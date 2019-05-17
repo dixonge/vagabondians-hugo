@@ -2,6 +2,7 @@
 title: Acapulco!
 date: 2012-08-23
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /acapulco/
@@ -13,31 +14,15 @@ tags:
 ---
 Acapulco has always held an allure for me.  My parents honeymooned there in the early '50s.  I had an image of the place, expectations.
 
-
-
 Those expectations have been dashed a bit, but it was still quite a place.  Acapulco Bay is just gorgeous.  Beautiful calm waters, boats moored, nice sunsets and sunrises.  We stayed in the old part of town, preferring to experience the real thing instead of opting for the big new hotels and resorts frequented by the new jet set with lots of money.  Our hotel was reasonably nice and cheap and across the street from the bay -- and a surprise on the other side of the hotel entranceway.
 
 [<img src="https://farm9.staticflickr.com/8285/7713062976_976f9a4825_n.jpg" alt="https://farm9.staticflickr.com/8285/7713062976_976f9a4825_n.jpg" width="320" height="240" border="0" />][1][<img style="float: left;" title="https://farm9.staticflickr.com/8422/7712811640_05f2e734df_n.jpg" src="https://farm9.staticflickr.com/8422/7712811640_05f2e734df_n.jpg" alt="https://farm9.staticflickr.com/8422/7712811640_05f2e734df_n.jpg" width="320" height="240" border="0" /><img style="float: left;" title="https://farm8.staticflickr.com/7126/7713068384_0f6b05edae_n.jpg" src="https://farm8.staticflickr.com/7126/7713068384_0f6b05edae_n.jpg" alt="https://farm8.staticflickr.com/7126/7713068384_0f6b05edae_n.jpg" width="320" height="240" border="0" />][2]
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 The view was superb however, both early and late.  And we were up early because the colorful, neon-decorated buses and taxis start honking to greet the morning at 6 a.m. sharp -- all of them.
 
 <img style="float: left;" title="https://farm9.staticflickr.com/8431/7712810846_53c2919819_n.jpg" src="https://farm9.staticflickr.com/8431/7712810846_53c2919819_n.jpg" alt="https://farm9.staticflickr.com/8431/7712810846_53c2919819_n.jpg" width="320" height="240" border="0" />
 
 <img src="https://farm8.staticflickr.com/7117/7713064454_0746a3b616_n.jpg" alt="https://farm8.staticflickr.com/7117/7713064454_0746a3b616_n.jpg" width="320" height="240" border="0" />
-
-&nbsp;
 
 <div>
   <p>
@@ -46,54 +31,6 @@ The view was superb however, both early and late.  And we were up early because
   
   <p>
     <a title="View 'https://farm8.staticflickr.com/7118/7713076148_aef525e552_n.jpg' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7713076148"><img style="float: left;" title="https://farm8.staticflickr.com/7118/7713076148_aef525e552_n.jpg" src="https://farm8.staticflickr.com/7118/7713076148_aef525e552_n.jpg" alt="https://farm8.staticflickr.com/7118/7713076148_aef525e552_n.jpg" width="320" height="240" border="0" /></a><a title="View 'https://farm9.staticflickr.com/8421/7712857762_2e1d9f66c4_n.jpg' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7712857762"><img style="float: left;" title="https://farm9.staticflickr.com/8421/7712857762_2e1d9f66c4_n.jpg" src="https://farm9.staticflickr.com/8421/7712857762_2e1d9f66c4_n.jpg" alt="https://farm9.staticflickr.com/8421/7712857762_2e1d9f66c4_n.jpg" width="320" height="240" border="0" /></a><a title="View 'https://farm8.staticflickr.com/7134/7713080108_50feb69aaa_n.jpg' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7713080108"><img style="float: left;" title="https://farm8.staticflickr.com/7134/7713080108_50feb69aaa_n.jpg" src="https://farm8.staticflickr.com/7134/7713080108_50feb69aaa_n.jpg" alt="https://farm8.staticflickr.com/7134/7713080108_50feb69aaa_n.jpg" width="320" height="240" border="0" /></a>
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
-  </p>
-  
-  <p>
-    &nbsp;
   </p>
   
   <p>
@@ -114,9 +51,6 @@ The view was superb however, both early and late.  And we were up early because
   
   <p>
     I was surprised to discover that in all of the thousands of dives performed here, no one has ever been seriously injured, although there have been a few broken limbs. It is nice to think of my parents here, watching the same divers at the same location so many years ago. Glad to see that at least a few things here in Acapulco have resisted change.
-  </p>
-  
-  <p>
   </p>
 </div>
 

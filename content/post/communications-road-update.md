@@ -2,6 +2,7 @@
 title: 'Communications on the Road:  Update'
 date: 2011-05-08
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road-update/

@@ -2,6 +2,7 @@
 title: Exploring Prairie Creek Redwoods State Park
 date: 2011-08-23
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /exploring-prairie-creek-redwoods-state-park/

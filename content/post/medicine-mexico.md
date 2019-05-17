@@ -2,6 +2,7 @@
 title: Medicine in Mexico
 date: 2012-03-28
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /medicine-mexico/

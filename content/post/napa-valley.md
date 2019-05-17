@@ -2,6 +2,7 @@
 title: Napa Valley
 date: 2011-08-01
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /napa-valley/

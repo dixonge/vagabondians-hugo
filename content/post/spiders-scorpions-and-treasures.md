@@ -2,6 +2,7 @@
 title: Spiders, Scorpions, and Treasures!
 date: 2012-10-05
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /spiders-scorpions-and-treasures/

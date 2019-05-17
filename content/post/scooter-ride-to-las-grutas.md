@@ -2,6 +2,7 @@
 title: Scooter Ride to Las Grutas
 date: 2012-08-14
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /scooter-ride-to-las-grutas/

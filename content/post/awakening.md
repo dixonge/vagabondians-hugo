@@ -2,6 +2,7 @@
 title: Awakening
 date: 2012-07-04
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /awakening/

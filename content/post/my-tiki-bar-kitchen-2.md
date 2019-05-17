@@ -2,6 +2,7 @@
 title: 'MY TIKI BAR KITCHEN -- 2'
 date: 2012-06-23
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /my-tiki-bar-kitchen-2/

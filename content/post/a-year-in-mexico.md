@@ -2,6 +2,7 @@
 title: A Year In Mexico
 date: 2013-02-24
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /a-year-in-mexico/
@@ -9,13 +10,9 @@ image:  /images/year-in-mexico.jpeg
 categories:
   - Mexico
 ---
-<div id="attachment_2258" style="width: 740px" class="wp-caption aligncenter">
-  <img class="wp-image-2258     " title="La Pochota" src="https://vagabondians.com/wp-content/uploads/2013/02/La-Pochota.jpg" alt="La Pochota" width="730" height="547" />
+![](/images/2013/02/La-Pochota.jpg)
 
-  <p class="wp-caption-text">
     La Pochota -- a kapok tree that has been here since the town was founded in the 16th century
-  </p>
-</div>
 
 We enjoyed San Cristobal de las Casas so much we ended up staying there for six months. But towards the end it began to feel like we had stayed too long. Eventually we began exploring our next move. When we discovered that some friends from Seattle were going to visit Belize in January, our plans were set.
 

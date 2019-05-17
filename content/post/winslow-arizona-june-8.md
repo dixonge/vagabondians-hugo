@@ -2,6 +2,7 @@
 title: 'Winslow, Arizona -- June 8'
 date: 2011-06-11
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /winslow-arizona-june-8/

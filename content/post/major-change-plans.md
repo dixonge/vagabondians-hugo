@@ -2,6 +2,7 @@
 title: A Major Change in Plans
 date: 2011-01-14
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /major-change-plans/

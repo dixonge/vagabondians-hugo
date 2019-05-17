@@ -2,6 +2,7 @@
 title: 'Grand Canyon -- Introduction'
 date: 2011-06-12
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /grand-canyon-introduction/

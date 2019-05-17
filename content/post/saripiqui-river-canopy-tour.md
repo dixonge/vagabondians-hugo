@@ -1,6 +1,7 @@
 ---
 title: Saripiqui River and Canopy Tour
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 date: 2014-06-11

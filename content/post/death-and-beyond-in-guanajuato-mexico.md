@@ -2,6 +2,7 @@
 title: Death and Beyond in Guanajuato, Mexico
 date: 2012-07-05
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /death-and-beyond-in-guanajuato-mexico/

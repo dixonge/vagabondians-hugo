@@ -2,6 +2,7 @@
 title: The Interesting People of San Cristobal de las Casas
 date: 2012-11-20
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /the-interesting-people-of-san-cristobal-de-las-casas/

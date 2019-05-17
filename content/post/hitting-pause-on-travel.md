@@ -2,6 +2,7 @@
 title: "Hitting Pause on Travel"
 date: "2015-11-27"
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: "/hitting-pause-on-travel/"

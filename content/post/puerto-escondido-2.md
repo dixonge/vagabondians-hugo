@@ -2,6 +2,7 @@
 title: Puerto Escondido
 date: 2012-08-25
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /puerto-escondido-2/

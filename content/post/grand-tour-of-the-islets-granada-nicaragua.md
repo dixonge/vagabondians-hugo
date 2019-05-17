@@ -2,6 +2,7 @@
 title: Grand Tour of the Islets, Granada, Nicaragua
 date: 2013-08-19
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /grand-tour-of-the-islets-granada-nicaragua/

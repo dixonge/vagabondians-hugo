@@ -2,6 +2,7 @@
 title: 'October 2 -- A Sad Day to Remember'
 date: 2012-10-02
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /october-2-a-sad-day-to-remember/

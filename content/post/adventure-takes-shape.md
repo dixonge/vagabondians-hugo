@@ -2,6 +2,7 @@
 title: The Adventure Takes Shape
 date: 2011-03-15
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /adventure-takes-shape/

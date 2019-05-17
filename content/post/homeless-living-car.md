@@ -2,6 +2,7 @@
 title: We Are Homeless and Living in our Car
 date: 2011-04-01
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /homeless-living-car/

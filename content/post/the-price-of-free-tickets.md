@@ -2,6 +2,7 @@
 title: The Price of Free Tickets
 date: 2013-06-30
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /the-price-of-free-tickets/

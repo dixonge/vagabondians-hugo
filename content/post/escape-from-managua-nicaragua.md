@@ -2,6 +2,7 @@
 title: Escape from Managua, Nicaragua
 date: 2013-07-21
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /escape-from-managua-nicaragua/

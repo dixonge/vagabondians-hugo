@@ -2,6 +2,7 @@
 title: Us vs. Mother Nature
 date: 2011-05-02
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /vs-mother-nature/

@@ -3,6 +3,7 @@ title: Retired!
 date: 2019-05-08
 permalink: /retired/
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 image: /images/retired.jpg

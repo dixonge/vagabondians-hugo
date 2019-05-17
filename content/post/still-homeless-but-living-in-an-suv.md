@@ -2,6 +2,7 @@
 title: Still Homeless, But Living in an SUV
 date: 2011-04-21
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /still-homeless-but-living-in-an-suv/

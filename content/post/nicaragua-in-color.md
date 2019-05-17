@@ -2,6 +2,7 @@
 title: Nicaragua in Color
 date: 2013-08-10
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /nicaragua-in-color/

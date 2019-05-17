@@ -2,6 +2,7 @@
 title: San Miguel de Allende
 date: 2012-07-07
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /san-miguel-de-allende/

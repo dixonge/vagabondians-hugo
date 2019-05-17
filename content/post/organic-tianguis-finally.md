@@ -2,6 +2,7 @@
 title: 'The Organic Tianguis -- we finally made it!'
 date: 2014-05-10
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /organic-tianguis-finally/

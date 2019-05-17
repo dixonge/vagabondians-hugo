@@ -2,6 +2,7 @@
 title: Three Years Ago We Quit Our Jobs And Ran Away From Home
 date: 2014-03-25
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /three-years-ago-quit-jobs-ran-away-home/

@@ -2,6 +2,7 @@
 title: What is a Vagabondian?
 date: 2010-07-13
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /what-is-a-vagabondian/

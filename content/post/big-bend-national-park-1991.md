@@ -2,6 +2,7 @@
 title: 'Big Bend National Park -- 1991'
 date: 2014-01-27
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-bend-national-park-1991/

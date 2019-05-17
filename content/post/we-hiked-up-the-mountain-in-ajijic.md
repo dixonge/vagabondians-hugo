@@ -2,6 +2,7 @@
 title: We Hiked up the Mountain in Ajijic
 date: 2012-05-02
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /we-hiked-up-the-mountain-in-ajijic/

@@ -2,6 +2,7 @@
 title: On The Road Again
 date: 2012-07-08
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /on-the-road-again/

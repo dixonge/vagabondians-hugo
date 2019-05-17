@@ -2,6 +2,7 @@
 title: Washington to Montana
 date: 2011-09-13
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /washington-montana/

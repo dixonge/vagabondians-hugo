@@ -2,6 +2,7 @@
 title: The Legend of Johnny Vagabond
 date: 2014-11-27
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 slug: /legend-johnny-vagabond/

@@ -2,6 +2,7 @@
 title: Talking Points!
 date: 2013-01-15
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /talking-points/

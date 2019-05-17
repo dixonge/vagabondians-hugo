@@ -2,6 +2,7 @@
 title: San Cristobal, Guatemala and … China?
 date: 2012-08-28
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /san-cristobal-guatemala-and-china/

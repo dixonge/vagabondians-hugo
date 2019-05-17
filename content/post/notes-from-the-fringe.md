@@ -2,6 +2,7 @@
 title: Notes From the Fringe
 date: 2010-06-23
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /notes-from-the-fringe/

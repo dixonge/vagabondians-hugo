@@ -2,6 +2,7 @@
 title: Now We're Cooking With Gas
 date: 2011-06-13
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /cooking-gas/

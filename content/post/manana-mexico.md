@@ -2,6 +2,7 @@
 title: Mañana in Mexico
 date: 2012-03-24
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /manana-mexico/

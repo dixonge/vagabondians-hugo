@@ -20,9 +20,9 @@
       </a>
       <section class="post-card-excerpt" style="padding: 0 25px;">
           {{ .Content }}
-      </section>
-
-      <footer class="post-card-meta">
+      <p>If you want to get alerts and little snippets in-between blog posts, sign up for our newsletter. We sell nothing, just provide updates on our journey. You can sign up here: <a href="https://vagabondians.substack.com/">Vagabondians Stories</a></p>
+    </section>
+    <footer class="post-card-meta">
           <img class="author-profile-image" src="{{ (.Params.authorAvatar | default .Site.Params.authorAvatar) | absURL}}" alt="Author" />
           <span class="post-card-author"><a href="/">{{.Params.author | default .Site.Params.author}}</a></span>
       </footer>

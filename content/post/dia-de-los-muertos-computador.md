@@ -2,6 +2,7 @@
 title: Dia de los Muertos Computador
 date: 2012-11-10
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 excerpt: "A few weeks ago, just as Bryn was heading out for a week-long adventure in the jungles of Palenque with her friend Loretta, her MacBook Air began experiencing problems. By the time she tried to import her first set of photos it wouldn't stay powered on long enough to log in."

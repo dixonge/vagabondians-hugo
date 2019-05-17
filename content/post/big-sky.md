@@ -2,6 +2,7 @@
 title: Under the Big Sky
 date: 2011-09-20
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /big-sky/

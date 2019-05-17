@@ -2,6 +2,7 @@
 title: One More Week Until Mexico
 date: 2012-02-08
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /one-more-week-until-mexico/

@@ -2,6 +2,7 @@
 title: Life and Living in Mexico
 date: 2012-04-18
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /life-living-mexico/

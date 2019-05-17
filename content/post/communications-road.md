@@ -2,6 +2,7 @@
 title: Communications On The Road
 date: 2010-12-16
 author: "Glenn"
+authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 permalink: /communications-road/

@@ -2,6 +2,7 @@
 title: 'Musings on the Year in Review - Goodbye 2012'
 date: 2013-01-03
 author: "Bryn"
+authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 permalink: /musings-on-the-year-in-review-goodbye-2012/
