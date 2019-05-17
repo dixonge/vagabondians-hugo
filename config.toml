@@ -39,7 +39,7 @@ canonifyurls    = true
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casperTWO"
+  singleViewStyle = "casper"
 
 [permalinks]
   post = "/:slug/"

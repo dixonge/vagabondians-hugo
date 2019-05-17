@@ -25,6 +25,12 @@
 .post-card-image {
     background-size: contain;
 }
+
+figure.post-full-image {
+    background: #c5d2d9 50% no-repeat!important;
+    background-size: contain!important;
+}
+
 @media (max-width: 1024px)
 {
     .home-template .site-header-content {
