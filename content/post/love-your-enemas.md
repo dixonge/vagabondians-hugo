@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /love-your-enemas/
+slug: /love-your-enemas/
 image:  /images/enema.jpg
 dsq_thread_id:
   - 3070695184

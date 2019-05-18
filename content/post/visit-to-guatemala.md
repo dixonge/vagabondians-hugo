@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /visit-to-guatemala/
+slug: /visit-to-guatemala/
 image:  /images/guatemala.jpg
 dsq_thread_id:
   - 3447141864

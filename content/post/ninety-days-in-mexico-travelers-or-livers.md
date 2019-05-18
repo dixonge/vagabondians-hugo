@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /ninety-days-in-mexico-travelers-or-livers/
+slug: /ninety-days-in-mexico-travelers-or-livers/
 image:  /images/liver.jpg
 dsq_thread_id:
   - 3137794545

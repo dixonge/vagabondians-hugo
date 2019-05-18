@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /year-outside-usa/
+slug: /year-outside-usa/
 image:  /images/year-outside.jpg
 dsq_thread_id:
   - 3268990812

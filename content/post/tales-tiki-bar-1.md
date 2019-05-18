@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /tales-tiki-bar-1/
+slug: /tales-tiki-bar-1/
 image:  /images/2011/04/P1080954.jpg
 categories:
   - sixmonths

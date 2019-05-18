@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /the-interesting-people-of-san-cristobal-de-las-casas/
+slug: /the-interesting-people-of-san-cristobal-de-las-casas/
 image:  /images/teaser-mexico.jpg
 categories:
   - Mexico

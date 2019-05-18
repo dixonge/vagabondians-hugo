@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /the-journey-of-a-thousand-li-commenced-with-a-single-step/
+slug: /the-journey-of-a-thousand-li-commenced-with-a-single-step/
 image:  /images/trail-1.jpg
 categories:
   - News

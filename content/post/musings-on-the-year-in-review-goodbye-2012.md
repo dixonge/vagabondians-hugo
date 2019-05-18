@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /musings-on-the-year-in-review-goodbye-2012/
+slug: /musings-on-the-year-in-review-goodbye-2012/
 image:  /images/year-in-review.jpg
 categories:
   - News

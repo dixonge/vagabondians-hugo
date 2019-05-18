@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /puerto-escondido-2/
+slug: /puerto-escondido-2/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3128402124

@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /leopold-center-baraboo-wisconsin/
+slug: /leopold-center-baraboo-wisconsin/
 image:  /images/leopold.jpg
 dsq_thread_id:
   - 3097777472

@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /orquideas-moxviquil-orchid-and-botanical-conservatory/
+slug: /orquideas-moxviquil-orchid-and-botanical-conservatory/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3094533410

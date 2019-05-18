@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /slomo-another-one-escapes-normal/
+slug: /slomo-another-one-escapes-normal/
 image:  /images/slomo.png
 dsq_thread_id:
   - 3268990585

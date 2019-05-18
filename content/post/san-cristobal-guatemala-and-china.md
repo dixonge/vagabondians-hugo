@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /san-cristobal-guatemala-and-china/
+slug: /san-cristobal-guatemala-and-china/
 image:  /images/shenzhen-night.jpg
 categories:
   - News

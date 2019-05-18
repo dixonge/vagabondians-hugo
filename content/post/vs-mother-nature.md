@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /vs-mother-nature/
+slug: /vs-mother-nature/
 image:  /images/2011/05/P1090122.jpg
 categories:
   - sixmonths

@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /halloween-parade-in-san-cristobal-de-las-casas-mexico/
+slug: /halloween-parade-in-san-cristobal-de-las-casas-mexico/
 image:  /images/halloween-parade.png
 categories:
   - Mexico

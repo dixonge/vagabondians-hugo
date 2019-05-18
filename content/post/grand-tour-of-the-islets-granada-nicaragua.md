@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /grand-tour-of-the-islets-granada-nicaragua/
+slug: /grand-tour-of-the-islets-granada-nicaragua/
 image:  /images/isletas.jpg
 dsq_thread_id:
   - 3109594693

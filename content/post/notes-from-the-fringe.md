@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /notes-from-the-fringe/
+slug: /notes-from-the-fringe/
 image:  /images/redpill-1.jpg
 categories:
   - News

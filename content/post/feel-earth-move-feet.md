@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /feel-earth-move-feet/
+slug: /feel-earth-move-feet/
 image:  /images/quakezone1.gif
 categories:
   - Mexico

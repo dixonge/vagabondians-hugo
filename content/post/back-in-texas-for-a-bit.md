@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /back-in-texas-for-a-bit/
+slug: /back-in-texas-for-a-bit/
 image:  /images/back-in-texas.jpg
 categories:
   - News
@@ -18,9 +18,6 @@ Bryn is doing a lot of homework in preparation for her TEFL certificate so that 
 
 Glenn is still working on our first book, and is also working on a major site overhaul (you may have noticed some things changing around here) and thinks he may have come up with a new way of telling our stories that we hope you will enjoy. Here is a little sample for you from a recent weekend with some friends -- hope you enjoy!
 
-[A Taste of Texas][2]
+[UPDATE: The 'new way' of telling stories is a site that no longer exists. The link below now leads to a post right here on Vagabondians...]
 
-.
-
- [1]: {{ Site.BaseURL }}/images/2013/03/Whiskey-Distillery-25.jpg
- [2]: https://vagabondians.jux.com/2013texas/1066740/
+[A Taste of Texas - Old Style](/a-taste-of-texas-old-style)

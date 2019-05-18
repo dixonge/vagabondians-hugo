@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /palenque-the-star-of-the-chiapas-maya-show/
+slug: /palenque-the-star-of-the-chiapas-maya-show/
 image:  /images/palenque-star.jpg
 categories:
   - Mexico

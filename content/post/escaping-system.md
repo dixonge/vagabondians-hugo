@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /escaping-system/
+slug: /escaping-system/
 image:  /images/2011/03/escapeesSmall.jpg
 dsq_thread_id:
   - 3092924874

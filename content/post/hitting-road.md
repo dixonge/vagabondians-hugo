@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /hitting-road/
+slug: /hitting-road/
 image:  /images/2011/04/LongTimeScreenCap.jpg
 categories:
   - News

@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /san-cristobal-de-las-casas-second-city/
+slug: /san-cristobal-de-las-casas-second-city/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3526358627

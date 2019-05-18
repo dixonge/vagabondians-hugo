@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /life-living-mexico/
+slug: /life-living-mexico/
 image:  /images/SeeClearly.jpg
 categories:
   - Mexico

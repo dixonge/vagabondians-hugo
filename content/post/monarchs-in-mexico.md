@@ -2,7 +2,7 @@
 draft: false
 title: Monarchs in Mexico
 date: 2019-05-11
-permalink: /monarchs-in-mexico/
+slug: /monarchs-in-mexico/
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"

@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /special-whale/
+slug: /special-whale/
 image:  /images/2011/08/whale.jpg
 categories:
   - sixmonths

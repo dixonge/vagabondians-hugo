@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /burn-rate/
+slug: /burn-rate/
 image:  /images/burn-rate.png
 dsq_thread_id:
   - 3381050187

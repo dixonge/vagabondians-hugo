@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /wallow-fire-eastern-arizona/
+slug: /wallow-fire-eastern-arizona/
 image:  /images/2011/06/SunSmoke.jpg
 categories:
   - sixmonths

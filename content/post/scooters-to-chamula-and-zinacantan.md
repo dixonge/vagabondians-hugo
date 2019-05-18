@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /scooters-to-chamula-and-zinacantan/
+slug: /scooters-to-chamula-and-zinacantan/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3094431633

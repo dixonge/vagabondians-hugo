@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /minnesota-its-flat/
+slug: /minnesota-its-flat/
 image:  /images/2011/10/MinnesotaFlat.jpg
 categories:
   - sixmonths

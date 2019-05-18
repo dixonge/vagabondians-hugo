@@ -6,7 +6,7 @@ authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
 excerpt: Why we are leaving Apple products for Google and Linux, and how we are doing it.
-permalink: /dear-apple-goodbye/
+slug: /dear-apple-goodbye/
 image:  /images/dear-apple.png
 dsq_thread_id:
   - 3272303060

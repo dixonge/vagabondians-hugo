@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /homeless-living-car/
+slug: /homeless-living-car/
 image:  /images/2011/04/P1080519.jpg
 categories:
   - sixmonths

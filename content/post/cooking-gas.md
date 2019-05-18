@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /cooking-gas/
+slug: /cooking-gas/
 image:  /images/2011/06/valve1.jpg
 categories:
   - sixmonths

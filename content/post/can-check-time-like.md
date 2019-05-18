@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /can-check-time-like/
+slug: /can-check-time-like/
 image:  /images/alcatraz.jpg
 categories:
   - Mexico

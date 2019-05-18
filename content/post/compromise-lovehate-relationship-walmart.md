@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /compromise-lovehate-relationship-walmart/
+slug: /compromise-lovehate-relationship-walmart/
 image:  /images/2011/01/india-10-06-10-wal-mart.jpg
 categories:
   - News

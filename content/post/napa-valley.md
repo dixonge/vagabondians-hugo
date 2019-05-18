@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /napa-valley/
+slug: /napa-valley/
 image:  /images/2011/08/napavalley.jpg
 categories:
   - sixmonths

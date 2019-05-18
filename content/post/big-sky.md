@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /big-sky/
+slug: /big-sky/
 image:  /images/2011/09/montana.jpg
 categories:
   - sixmonths

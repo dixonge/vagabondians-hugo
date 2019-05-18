@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /hoodoo-are/
+slug: /hoodoo-are/
 image:  /images/2011/06/brycehoodoo.jpg
 categories:
   - sixmonths

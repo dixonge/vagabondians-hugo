@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /big-bend-national-park-1991/
+slug: /big-bend-national-park-1991/
 categories:
   - Miscellaneous
 image: /images/bigbend.jpg

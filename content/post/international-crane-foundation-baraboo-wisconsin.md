@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /international-crane-foundation-baraboo-wisconsin/
+slug: /international-crane-foundation-baraboo-wisconsin/
 image:  /images/cranes.jpg
 categories:
   - sixmonths

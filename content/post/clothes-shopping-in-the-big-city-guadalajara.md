@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /clothes-shopping-in-the-big-city-guadalajara/
+slug: /clothes-shopping-in-the-big-city-guadalajara/
 image:  /images/shopping.jpg
 dsq_thread_id:
   - 3245685185

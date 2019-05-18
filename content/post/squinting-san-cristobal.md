@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /squinting-san-cristobal/
+slug: /squinting-san-cristobal/
 image:  /images/squinting.jpg
 categories:
   - Mexico

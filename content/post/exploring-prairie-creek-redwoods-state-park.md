@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /exploring-prairie-creek-redwoods-state-park/
+slug: /exploring-prairie-creek-redwoods-state-park/
 image:  /images/2011/08/prcreek.jpg
 dsq_thread_id:
   - 3088553951

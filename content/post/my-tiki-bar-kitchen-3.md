@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /my-tiki-bar-kitchen-3/
+slug: /my-tiki-bar-kitchen-3/
 image:  /images/chicken-feet.jpg
 categories:
   - Mexico

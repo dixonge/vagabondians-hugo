@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /a-year-in-mexico/
+slug: /a-year-in-mexico/
 image:  /images/year-in-mexico.jpeg
 categories:
   - Mexico

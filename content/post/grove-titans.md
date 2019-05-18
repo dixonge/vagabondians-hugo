@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /grove-titans/
+slug: /grove-titans/
 image:  /images/2011/08/trees.jpg
 dsq_thread_id:
   - 3071345342

@@ -5,7 +5,7 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 date: 2014-06-11
-permalink: /saripiqui-river-canopy-tour/
+slug: /saripiqui-river-canopy-tour/
 image:  /images/sarapiqui.jpg
 dsq_thread_id:
   - 3189151516

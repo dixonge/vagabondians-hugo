@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /four-foolish-years/
+slug: /four-foolish-years/
 image:  /images/four-foolish-years.jpg
 dsq_thread_id:
   - 3268990721

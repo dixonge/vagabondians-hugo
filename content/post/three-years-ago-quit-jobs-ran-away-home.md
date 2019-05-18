@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /three-years-ago-quit-jobs-ran-away-home/
+slug: /three-years-ago-quit-jobs-ran-away-home/
 image:  /images/three-years-teaser.jpg
 dsq_thread_id:
   - 3309983716

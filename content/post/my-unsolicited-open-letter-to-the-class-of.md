@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /my-unsolicited-open-letter-to-the-class-of/
+slug: /my-unsolicited-open-letter-to-the-class-of/
 image:  /images/flinch.jpg
 categories:
   - News

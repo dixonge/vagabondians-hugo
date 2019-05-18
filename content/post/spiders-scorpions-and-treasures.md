@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /spiders-scorpions-and-treasures/
+slug: /spiders-scorpions-and-treasures/
 image:  /images/teaser-mexico.jpg
 categories:
   - Mexico

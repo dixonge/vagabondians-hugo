@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /jungle-ancients-yaxchilan-bonampak/
+slug: /jungle-ancients-yaxchilan-bonampak/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3149034285

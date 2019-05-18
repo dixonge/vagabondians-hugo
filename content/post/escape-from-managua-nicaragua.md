@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /escape-from-managua-nicaragua/
+slug: /escape-from-managua-nicaragua/
 image:  /images/escape.jpg
 dsq_thread_id:
   - 3070562880

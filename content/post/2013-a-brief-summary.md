@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /2013-a-brief-summary/
+slug: /2013-a-brief-summary/
 image: /images/brief-summary.jpg
 categories:
   - News

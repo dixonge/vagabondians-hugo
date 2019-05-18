@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /take-a-little-trip-with-me/
+slug: /take-a-little-trip-with-me/
 image:  /images/teaser-mexico.jpg 
 categories:
   - Mexico

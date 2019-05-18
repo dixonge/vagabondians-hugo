@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /grand-canyon-north-rim/
+slug: /grand-canyon-north-rim/
 image:  /images/2011/06/NorthRimSunset.jpg
 categories:
   - sixmonths

@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /san-miguel-de-allende/
+slug: /san-miguel-de-allende/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3659872043

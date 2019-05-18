@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /humboldt-redwoods/
+slug: /humboldt-redwoods/
 image:  /images/2011/08/talltree.jpg
 categories:
   - sixmonths

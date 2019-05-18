@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /thunder-lightning-shelf-cloud%ef%bb%bf/
+slug: /thunder-lightning-shelf-cloud%ef%bb%bf/
 image:  /images/shelf-cloud.jpg
 categories:
   - Mexico

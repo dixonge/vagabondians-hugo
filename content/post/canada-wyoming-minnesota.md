@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /canada-wyoming-minnesota/
+slug: /canada-wyoming-minnesota/
 image:  /images/2011/10/WY2MN.jpg
 categories:
   - sixmonths

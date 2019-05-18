@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /glenn-sun-pyramid/
+slug: /glenn-sun-pyramid/
 image:  /images/sun-pyramid.jpg
 dsq_thread_id:
   - 3478642842

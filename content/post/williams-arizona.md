@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /williams-arizona/
+slug: /williams-arizona/
 image:  /images/2011/06/horsies.jpg
 dsq_thread_id:
   - 3671343100

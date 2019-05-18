@@ -4,7 +4,7 @@ date: 2011-08-25
 author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
-permalink: /oregon-coast/
+slug: /oregon-coast/
 image:  /images/2011/08/oregoncoast.jpg
 categories:
   - sixmonths

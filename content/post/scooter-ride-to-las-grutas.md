@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /scooter-ride-to-las-grutas/
+slug: /scooter-ride-to-las-grutas/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3716270676

@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /one-more-week-until-mexico/
+slug: /one-more-week-until-mexico/
 image:  /images/luggage.jpg
 categories:
   - News

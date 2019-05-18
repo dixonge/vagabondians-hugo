@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /death-and-beyond-in-guanajuato-mexico/
+slug: /death-and-beyond-in-guanajuato-mexico/
 image:  /images/death-and-beyond.jpg
 dsq_thread_id:
   - 3069973946

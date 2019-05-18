@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /waterfalls-day/
+slug: /waterfalls-day/
 image:  /images/teaser-mexico.jpg
 categories:
   - Mexico

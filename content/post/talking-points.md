@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /talking-points/
+slug: /talking-points/
 image:  /images/talking-points.jpg
 dsq_thread_id:
   - 3657945858

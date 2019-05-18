@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /what-is-a-vagabondian/
+slug: /what-is-a-vagabondian/
 image:  /images/everettruess-1.jpg
 dsq_thread_id:
   - 3171082726

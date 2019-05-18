@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /death-mexico/
+slug: /death-mexico/
 image:  /images/death-mexico.jpg
 dsq_thread_id:
   - 3158428926

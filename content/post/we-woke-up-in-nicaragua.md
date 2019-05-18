@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /we-woke-up-in-nicaragua/
+slug: /we-woke-up-in-nicaragua/
 image:  /images/we-woke-up.jpg
 categories:
   - centralamerica

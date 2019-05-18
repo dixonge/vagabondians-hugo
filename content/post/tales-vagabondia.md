@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /tales-vagabondia/
+slug: /tales-vagabondia/
 image:  /images/2011/06/AncientWay.jpg
 categories:
   - sixmonths

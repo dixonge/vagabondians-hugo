@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /tequila-mexico/
+slug: /tequila-mexico/
 image:  /images/teaser-mexico.jpg
 categories:
   - Mexico

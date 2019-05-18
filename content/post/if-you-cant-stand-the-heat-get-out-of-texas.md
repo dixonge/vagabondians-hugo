@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /if-you-cant-stand-the-heat-get-out-of-texas/
+slug: /if-you-cant-stand-the-heat-get-out-of-texas/
 image:  /images/texas-heat.jpg
 categories:
   - News

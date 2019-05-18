@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /the-price-of-free-tickets/
+slug: /the-price-of-free-tickets/
 image:  /images/price-of-free.jpg
 categories:
   - centralamerica

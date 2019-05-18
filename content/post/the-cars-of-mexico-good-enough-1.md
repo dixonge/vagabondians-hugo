@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /the-cars-of-mexico-good-enough-1/
+slug: /the-cars-of-mexico-good-enough-1/
 image:  /images/teaser-mexico.jpg
 dsq_thread_id:
   - 3085741853

@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /april-fools/
+slug: /april-fools/
 image:  /images/fool-3.jpg
 categories:
   - Mexico
@@ -24,12 +24,10 @@ We thought it appropriate that we left behind all vestiges of a permanent reside
 
 We are guided by many who have gone before. I will close with this inspirational quote from Everett Ruess, an explorer ahead of his time:
 
-![Everett Ruess][1]
+![Everett Ruess](/images/2012/04/Everett-Ruess.jpg)
 
 > Adventure is for the adventurous.
 My face is set.
 I go to make my destiny.
 May many another youth be by me inspired to leave the snug safety of his rut, and follow fortune to other lands. 
 -- Everett Ruess
-
- [1]: ../images/2012/04/Everett-Ruess.jpg

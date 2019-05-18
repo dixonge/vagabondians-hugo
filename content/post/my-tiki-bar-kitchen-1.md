@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /my-tiki-bar-kitchen-1/
+slug: /my-tiki-bar-kitchen-1/
 image:  /images/tikibar.jpg
 dsq_thread_id:
   - 3079373803

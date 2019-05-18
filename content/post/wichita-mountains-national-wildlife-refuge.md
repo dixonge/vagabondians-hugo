@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /wichita-mountains-national-wildlife-refuge/
+slug: /wichita-mountains-national-wildlife-refuge/
 image:  /images/2011/04/P1080954-e1307549467362.jpg
 dsq_thread_id:
   - 3131880057

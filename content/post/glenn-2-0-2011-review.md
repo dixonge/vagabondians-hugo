@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /glenn-2-0-2011-review/
+slug: /glenn-2-0-2011-review/
 image:  /images/Glenn2.0.jpg
 categories:
   - News

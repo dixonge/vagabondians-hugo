@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /october-2-a-sad-day-to-remember/
+slug: /october-2-a-sad-day-to-remember/
 image:  /images/teaser-mexico.jpg
 categories:
   - Mexico

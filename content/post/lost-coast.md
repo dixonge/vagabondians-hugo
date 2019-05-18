@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /lost-coast/
+slug: /lost-coast/
 image:  /images/2011/08/LostCoast.jpg
 dsq_thread_id:
   - 3131662695

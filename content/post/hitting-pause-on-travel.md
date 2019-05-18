@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: "/hitting-pause-on-travel/"
+slug: "/hitting-pause-on-travel/"
 categories:
 - News
 image: "/images/25years.jpg"

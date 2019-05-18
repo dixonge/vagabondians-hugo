@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /bombs-bursting-overhead/
+slug: /bombs-bursting-overhead/
 image:  /images/teaser-mexico.jpg 
 categories:
   - Mexico

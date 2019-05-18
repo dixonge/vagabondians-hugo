@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /winslow-arizona-june-8/
+slug: /winslow-arizona-june-8/
 image:  /images/2011/06/WinslowHeader.jpg
 categories:
   - sixmonths

@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /day-trip-tlaquepaque-guadalajara/
+slug: /day-trip-tlaquepaque-guadalajara/
 image:  /images/tlaquepaque.jpg
 dsq_thread_id:
   - 3229817877

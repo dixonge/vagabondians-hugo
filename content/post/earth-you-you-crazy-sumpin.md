@@ -5,7 +5,7 @@ author: "Bryn"
 authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
-permalink: /earth-you-you-crazy-sumpin/
+slug: /earth-you-you-crazy-sumpin/
 image:  /images/FreedomSculpture.jpg
 categories:
   - News

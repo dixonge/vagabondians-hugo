@@ -5,7 +5,7 @@ author: "Glenn"
 authorDescription: "Retired I.T. nerd - expat in Mexico"
 authorAvatar: "/images/avatar.jpg"
 # desc: "Retired I.T. nerd - Mexpat - vegan"
-permalink: /why-we-did-it/
+slug: /why-we-did-it/
 image:  /images/2011/04/P1000564.jpg
 categories:
   - sixmonths
