@@ -17,7 +17,7 @@ After escaping the rain in Lawton and the scary lady with a hammer, we stopped f
 
 While we were there someone posted a picture of a ridiculous looking plane that was supposedly at the Amarillo Airport. Steve Miller said it should still be there, so we took a break to go see it. And there it was! Twice as tall as Southwest Airlines' 737's. Very odd looking. No wonder they call it the Flying Guppy.
 
-![Guppy vs. 737](https://i.imgur.com/PBkMAQD.jpg)
+![Guppy vs. 737](https://live.staticflickr.com/3340/5692525260_597b66b152_b.jpg)
 
 Seems that NASA acquired this thing to haul things around, like pieces of space shuttle or, in this case, a Bell Osprey. The nose of the plane swings to the right like a door, then you slide stuff inside. Strange, but true.
 
@@ -29,15 +29,15 @@ I should have just laughed. Instead I said "Oh" and just walked back to take mor
 
 Before I got photos of the plane, we discovered what appeared to be an old abandoned terminal building. The sign said "English Field." After taking several photos we drove to the east side of the airport and discovered what appeared to be an old military complex. Large water towers with the typical checkered paint job, now fading. Lots of streets and curbs but very few buildings left. I took a lot more pictures, and we enjoyed some of the wildlife that now occupies this area, mainly jackrabbits and birds.
 
-![Rabbits everywhere!](https://i.imgur.com/ZhQW4mp.jpg)
-![Swallow swarm](https://i.imgur.com/xBHdP4M.jpg)
+![Rabbits everywhere!](https://live.staticflickr.com/3389/5692527270_695d2b6965_b.jpg)
+![Swallow swarm](https://live.staticflickr.com/3327/5691960171_e5d10bc320_b.jpg)
 
 After we got back to the hotel I Googled it and discovered that English Field was the commercial airport back in the day, and that the runways now being used by Amarillo International used to be part of an Army Air Field started up back in World War II. Since then thousands of jet crew and mechanics were trained there, the B-17 Flying Fortress flew out of there, and it also used to be a SAC base and boot camp. All the military stuff is long gone, but the runways make it ideal for things like space shuttles and flying guppies.
 
-![Abandoned terminal](https://i.imgur.com/AwFBNaZ.jpg)
+![Abandoned terminal](https://live.staticflickr.com/2023/5692524184_312d25a333_b.jpg)
 
 The next day we met an old friend and storm-chasing buddy Steve Miller for lunch. We ended up spending 3-4 hours getting caught up on self-employment, love lives and storm chasing.
 
 Here is the full photo album:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/9703M"><a href="//imgur.com/a/9703M">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/vagabondians/albums/72157626533195207" title="Amarillo Airport"><img src="https://live.staticflickr.com/3340/5692525260_597b66b152_b.jpg" width="1024" height="683" alt="Amarillo Airport"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

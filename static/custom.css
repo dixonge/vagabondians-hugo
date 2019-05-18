@@ -27,8 +27,8 @@
 }
 
 figure.post-full-image {
-    background: #c5d2d9 50% no-repeat!important;
-    background-size: contain!important;
+    background: #c5d2d9 50% no-repeat;
+    background-size: contain;
 }
 
 @media (max-width: 1024px)
