@@ -16,6 +16,4 @@ We resolve this whole issue several years ago when we switched from regular matt
 
 So last night we switched beds and I slept like a baby &#8212; a big, fat snoring baby.  Poor Bryn, the hammock didn't work for her either and she ended up putting her thermarest on the floor.  So today I took the folding hammock back to Cabela's for a refund and went back to WalMart for a second double-height twin air mattress.  (strangely enough, the store is full of them but you can't find it anywhere on WalMart's web page!)  We now have a matching pair of them, and that's actually pretty close to what we used to have with our Select Comfort bed!  I just wish I could figure out why we didn't start off with these air beds!  Added together they cost the same as that folding hammock did on sale.
 
-I [wrote about this phenomenon recently][1], how WalMart keeps trying to make me like them.  They did it again!
-
- [1]: {{ Site.BaseURL }}/compromise-lovehate-relationship-walmart
+I [wrote about this phenomenon recently](/compromise-lovehate-relationship-walmart), how WalMart keeps trying to make me like them.  They did it again!
