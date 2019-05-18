@@ -11,6 +11,7 @@ canonifyurls    = true
   subtitle    = "Escape Normal - Explore Your World"
   copyright   = "© Vagabondians - Glenn and Bryn Dixon"
   cover       = "/images/Vagabondians-Header-Large.jpg"
+  readnextcover = "/images/live.jpeg"
   description = "Escape Normal - Explore Your World"
   metaDescription = ""
   googleAnalytics = ""
