@@ -47,7 +47,7 @@ canonifyurls    = true
   page = "/:slug/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   blog = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
