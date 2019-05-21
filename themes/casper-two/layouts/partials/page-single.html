@@ -8,7 +8,7 @@
       <div class="post-card-image" style="background-image: url({{$.Site.BaseURL}}defimg/{{ index (seq 7 | shuffle) 0 }}.jpg)"></div>
     </a>    
     {{end}}
-
+    
     <div class="post-card-content">
       <a class="post-card-content-link" href="{{ .Permalink }}">
           <header class="post-card-header">
@@ -20,6 +20,8 @@
       </a>
       <section class="post-card-excerpt" style="padding: 0 25px;">
           {{ .Content }}
+          <p>If you want to get alerts and little snippets in-between blog posts, sign up for our newsletter. We sell nothing, just provide updates on our journey. You can sign up here: <a href="https://vagabondians.substack.com/">Vagabondians Stories</a></p>
+
       </section>
 
     </div>

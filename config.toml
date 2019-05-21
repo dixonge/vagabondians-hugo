@@ -45,6 +45,10 @@ canonifyurls    = true
 [permalinks]
   post = "/:slug/"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  blog = ["HTML", "RSS", "JSON"]
+
 [[menu.main]]
   name = "Home"
   url = "/"

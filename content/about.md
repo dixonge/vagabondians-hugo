@@ -1,8 +1,10 @@
-# About Us
-
+---
+title: "About Us"
+type: "page"
+---
 ![](/images/25years.jpg)
 
-Hello!  We're Glenn and Bryn, and we are Vagabondians.  (Yes, I made that word up) A few years ago we looked forward to the second half of our lives and we decided that we didn't want to go the traditional route.  So we took the next exit and began exploring the back roads.  We began leaving things behind (literally) at every stop.  First we jettisoned our debt, then most of our belongings, then our house, then our jobs!  Here's the how and why&#8230;
+Hello!  We're Glenn and Bryn, and we are Vagabondians.  (Yes, I made that word up) A few years ago we looked forward to the second half of our lives and we decided that we didn't want to go the traditional route.  So we took the next exit and began exploring the back roads.  We began leaving things behind (literally) at every stop.  First we jettisoned our debt, then most of our belongings, then our house, then our jobs!  Here's the how and why...
 
 ## The Struggle
 
