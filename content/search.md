@@ -1,5 +1,5 @@
 ---
-title: "Search Results"
+title: "Search"
 type: page
 exclude_search: true
 ---
@@ -9,4 +9,7 @@ exclude_search: true
 <div>
   <input id="search-input" type="text" placeholder="What are you looking for?" name="search-input" class="form-control">
 </div>
+<p style="text-align: center">[Just start typing in the box - results will show below immediately!]</p>
+
+
 <div id="search-results" class="container"></div>
