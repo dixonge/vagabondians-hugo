@@ -28,7 +28,7 @@ Can you see where this is going? OK, you've been warned!
 
 &nbsp;
 
-There were many titles that I could have used for this. If I were a smart travel blogger I probably would have entitled it something like "Five Medical Emergency Lessons I Learned in Costa Rica." Instead, I'm going with a joke. I hope you appreciate the humor. <img src="https://v2j.vagabondians.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+There were many titles that I could have used for this. If I were a smart travel blogger I probably would have entitled it something like "Five Medical Emergency Lessons I Learned in Costa Rica." Instead, I'm going with a joke. I hope you appreciate the humor. ![](/images/simple-smile.png)
 
 It all started out innocently enough. Bryn and I have generally been on a low-carb diet off and on for the last several years. We have removed most processed foods from regular consumption when possible. While we were in Mexico in 2012 we both lost weight, then promptly regained it when we revisited the states earlier this year. That should probably tell you something. After returning overseas to Nicaragua and Costa Rica we set out to re-lose our excess pounds and in the process we ran across a very interesting diet concept. The basic gist of it is that our bodies naturally guide our appetite based on traditional evolutionary patterns of 'feast and famine.' It's only in the last 10-15,000 years or so that agriculture and animal husbandry smoothed out this process. In the last hundred years or so food has become global and seasons have almost been made obsolete. All foods, all the time, right on your local grocery store shelf.
 

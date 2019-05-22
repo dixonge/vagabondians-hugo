@@ -14,7 +14,7 @@ tags:
 ---
 On August 10th we departed from the Mt. St. Helens area and drove north to Seattle. It was our first time here, and our first time to see our old friends Angie and Rand in their home. We backed in to their driveway and set up the trailer which fit perfectly behind their gate. Urban incognito.
 
-While we were there we spent most evenings enjoying some fine dining. Rand even prepared his infamous pizza made from scratch twice! We also enjoyed some wine most evenings, as best I can remember. I still blame Rand for that one night, no matter what Angie says! <img src="https://v2j.vagabondians.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+While we were there we spent most evenings enjoying some fine dining. Rand even prepared his infamous pizza made from scratch twice! We also enjoyed some wine most evenings, as best I can remember. I still blame Rand for that one night, no matter what Angie says! ![](/images/simple-smile.png)
 
 We also did some sightseeing. Rand took us to a nice spot with a great view of the bay and city. He also took us to see the troll! No, seriously, a troll. Big sculpture under a bridge. I'm still not really sure why someone would create such a thing, but it seemed to be a popular spot! And of course we went downtown to the Public Market, the famous place where people out in front of the fish stands take orders and toss them back to the guys behind the counter. For every one person placing an order, there are a hundred tourists standing around with their cameras waiting to get a picture. I was one of 'em.
 
