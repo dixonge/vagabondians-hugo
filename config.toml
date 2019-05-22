@@ -99,3 +99,8 @@ canonifyurls    = true
   name = "All Categories"
   url = "/categories/"
   weight = 99
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 98
