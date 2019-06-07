@@ -27,8 +27,11 @@
     {{else}}
       {{ partial "post-single-sori" . }}
     {{end}}
-    
+
+    <div class="comments">
+    {{ partial "utterances" . }}
     {{ partial "disqus" . }}
+    </div>
   </div>
 </main>
 

@@ -5,6 +5,7 @@ disqusShortname = "vagabondians"
 paginate        = 10
 #SectionPagesMenu = "main"
 canonifyurls    = true
+NewContentEditor = "code"
 
 [params]
   title       = "Vagabondians"
