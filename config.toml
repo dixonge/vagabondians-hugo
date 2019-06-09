@@ -17,6 +17,7 @@ NewContentEditor = "code"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["custom.css"]
+  balloonCSS = ["balloon.css"]
   RSSLink = ""
 
 #  twitterName = "faketryghost"
