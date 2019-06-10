@@ -12,6 +12,7 @@ image: "/images/an-update.jpg"
 ---
 
 This will be brief, but I feel like I have to post *something* due to the long delay between articles.
+
 First, our apologies for not having more to say. To be honest, last year we shifted from active traveling to more of an expat lifestyle. Still, there were plenty of past travel events to write about and catch up on, and we are working on those but they aren’t up yet. Coming soon, promise.
 
 Second, we have discovered that Bryn simply doesn’t enjoy writing. The entire process is a lot more work than enjoyment for her, which means that keeping up blog posts is Glenn’s job. And Glenn used to do this on a fairly regular basis, but…
