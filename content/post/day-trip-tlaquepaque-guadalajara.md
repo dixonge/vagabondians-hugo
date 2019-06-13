@@ -16,6 +16,7 @@ tags:
   - mexico
   - tlaquepaque
 ---
+
 Our friends in the neighborhood, Jean-Pierre and Yolanda Luisser, French-Canadians from Quebec, invited us to join them on a day trip to Guadalajara on Sunday, March 25. Oh, boy! A trip to the big city with someone who knows where to go and what to see -- and most importantly, how to drive in that crazy place! So we set out about 10 in the morning, first stop Tlaquepaque, a town on the outskirts that I first heard about on The Travel Channel long ago.
 
 <img src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-prn1/526280_10150842926778993_677503992_11703252_2078959908_n.jpg" alt="" width="548" height="411" />

@@ -22,7 +22,7 @@ Now we have crossed into another world. We are the minority. The words we hear, 
 
 We thought it appropriate that we left behind all vestiges of a permanent residence on the first day of April. We are doing what many would call foolish, after all. But sometimes what one might see as foolish is, instead, truly wise.
 
-We are guided by many who have gone before. I will close with this inspirational quote from Everett Ruess, an explorer ahead of his time:
+We are guided by many who have gone before. I will close with this inspirational quote from Everett Ruess, an explorer <button data-balloon="He also disappeared and his body was never found!" data-balloon-pos="up">ahead of his time</button>:
 
 ![Everett Ruess](/images/2012/04/Everett-Ruess.jpg)
 

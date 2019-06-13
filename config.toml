@@ -5,6 +5,7 @@ disqusShortname = "vagabondians"
 paginate        = 10
 #SectionPagesMenu = "main"
 canonifyurls    = true
+NewContentEditor = "code"
 
 [params]
   title       = "Vagabondians"
@@ -16,6 +17,7 @@ canonifyurls    = true
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["custom.css"]
+  balloonCSS = ["balloon.css"]
   RSSLink = ""
 
 #  twitterName = "faketryghost"
