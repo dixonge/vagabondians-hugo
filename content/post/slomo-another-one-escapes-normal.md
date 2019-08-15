@@ -14,12 +14,8 @@ categories:
 ---
 This guy totally gets it. He escaped -- will you?
 
-[<img class="alignnone size-foundation-featured-image wp-image-3639" src="https://vagabondians.com/wp-content/uploads/2014/04/slomo-900x507.png" alt="slomo" width="750" height="422" />][1]
-
 Dr. John Kitchin quit a medical career to pursue his passion: skating along the boardwalk of San Diego’s Pacific Beach. He calls himself “Slomo.”
 
 A quick, potentially life-changing video -- 16 minutes.
 
-<a title="Slomo" href="https://nyti.ms/1s0fcv2" target="_blank">Slomo</a>
-
- [1]: https://nyti.ms/1s0fcv2
+<iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000002796999"></iframe>
