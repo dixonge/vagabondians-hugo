@@ -14,30 +14,30 @@ categories:
 ---
 Today. Three years ago today was our [last day at work][1]. We celebrated with friends and co-workers, we said our goodbyes.
 
-[Bryn Going Away Party](images/2011/04/2011-Texas-209.jpg)
+![Bryn Going Away Party](/images/2011/04/2011-Texas-209.jpg)
 
 Within a week we had finished cleaning out our apartment and were [officially homeless][3].
 
-[](images/2011/04/IMG_0366.jpg)
+![](/images/2011/04/IMG_0366.jpg)
 
 A lot has happened since then.
 
 We [lived in a pop-up camper][5] for several months
 
-![Trailer](images/2011/05/Trailer.jpg)
+![Trailer](/images/2011/05/Trailer.jpg)
 We saw [amazing][7] [things ][8]all over [western][9] America
 
-![bryce-624x351](images/2011/07/bryce.jpg)
+![bryce-624x351](/images/2011/07/bryce.jpg)
 
 We visited [family ][11]and [friends][12]
 
-![iowa](images/2014/03/iowa.jpg)
+![iowa](/images/2014/03/iowa.jpg)
 We [moved to Mexico][14]
 
-![mexico](images/2012/01/mexico.jpg)
+![mexico](/images/2012/01/mexico.jpg)
 We saw [amazing][16] [things][17] all over [Mexico ][18]and [Central][19] [America][20]
 
-![MuseodeMumios](images/2012/07/MuseodeMumios.jpg)
+![MuseodeMumios](/images/2012/07/MuseodeMumios.jpg)
 
 Most importantly, we broke out of the cycle. We did the unexpected, the unusual. We changed the course of our lives.  Instead of doing what everyone else does and following our expected path, we took the next exit.
 
