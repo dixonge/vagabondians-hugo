@@ -10,7 +10,7 @@ image:  /images/capture-color.jpg
 categories:
   - News
 ---
-<span class="intro1">There’s a new photo contest going on and I was 'tagged' by my friend Wes (aka <a href="https://johnnyvagabond.com">Johnny Vagabond</a>).</span> <span class="intro2">Sponsored by <a href="https://www.travelsupermarket.com/">TravelSupermarket.com</a>, there are some great prizes (iPads!) and the contest is being judged by some amazing photographers/bloggers.</span>
+There’s a new photo contest going on and I was 'tagged' by my friend Wes (aka <a href="https://johnnyvagabond.com">Johnny Vagabond</a>). Sponsored by <a href="https://www.travelsupermarket.com/">TravelSupermarket.com</a>, there are some great prizes (iPads!) and the contest is being judged by some amazing photographers/bloggers.
 
 The rules are pretty simple: post photos on your blog that fit the following themes: Red, Blue, White, Green and Yellow. Share your post via social media (see the rules below for details) and nominate five other bloggers to join in the fun. If you don’t have all five, post what you have. Easy!
 
@@ -24,26 +24,21 @@ Here are my entries...
 
 <strong style="font-size: 13px;">BLUE</strong>
 
-<div style="width: 1034px" class="wp-caption alignnone">
-  <a title="View '2011-08-29at16-57-42 - Version 2' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694632848"><img style="border: 0px none;" title="Sapphire Pool - Yellowstone National Park" src="https://farm9.staticflickr.com/8004/7694632848_49910a0b08_b.jpg" alt="Sapphire Pool - Yellowstone National Park" width="1024" height="768" border="0" /></a>
+[![Sapphire Pool - Yellowstone National Park](https://farm9.staticflickr.com/8004/7694632848_49910a0b08_b.jpg")](https://www.flickr.com/photos/48315294@N00/7694632848")
 
   <p class="wp-caption-text">
     Sapphire Pool -- Yellowstone National Park
   </p>
 </div>
 
-&nbsp;
-
 The Sapphire Pool at Yellowstone National Park. It doesn't get any bluer than that, does it?
-
-&nbsp;
 
 <p style="font-size: 13px;">
   <strong>GREEN</strong>
 </p>
 
 <div style="width: 1034px" class="wp-caption alignnone">
-  <a title="View '2011-07-30at14-42-29' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694631318"><img style="border: 0px none;" title="Humboldt Redwoods State Park, California" src="https://farm9.staticflickr.com/8146/7694631318_0a8b693f18_b.jpg" alt="Humboldt Redwoods State Park, California" width="1024" height="576" border="0" /></a>
+  <a title="View '2011-07-30at14-42-29' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694631318">![Humboldt Redwoods State Park, California](https://farm9.staticflickr.com/8146/7694631318_0a8b693f18_b.jpg")</a>
 
   <p class="wp-caption-text">
     Humboldt Redwoods State Park, California
@@ -61,7 +56,7 @@ This is from Humboldt Redwoods State Park in northern California. In the backgro
 </p>
 
 <div style="width: 1034px" class="wp-caption alignnone">
-  <a title="View '2011-08-29at19-53-54 - Version 2' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694632036"><img style="border: 0px none;" title="Sunset - West Yellowstone, Montana" src="https://farm9.staticflickr.com/8019/7694632036_a445d203cd_b.jpg" alt="Sunset - West Yellowstone, Montana" width="1024" height="509" border="0" /></a>
+  <a title="View '2011-08-29at19-53-54 - Version 2' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694632036">![Sunset - West Yellowstone, Montana](https://farm9.staticflickr.com/8019/7694632036_a445d203cd_b.jpg")</a>
 
   <p class="wp-caption-text">
     Sunset -- West Yellowstone, Montana
@@ -77,7 +72,7 @@ After a long day on the south side of Yellowstone National Park taking photos of
 </p>
 
 <div style="width: 778px" class="wp-caption alignnone">
-  <a title="View '2011-08-29at13-24-26' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694630174"><img style="border: 0px none;" title="Geyser - Yellowstone National Park" src="https://farm9.staticflickr.com/8427/7694630174_fe3190ed51_b.jpg" alt="Geyser - Yellowstone National Park" width="768" height="1024" border="0" /></a>
+  <a title="View '2011-08-29at13-24-26' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694630174">![Geyser - Yellowstone National Park](https://farm9.staticflickr.com/8427/7694630174_fe3190ed51_b.jpg")</a>
 
   <p class="wp-caption-text">
     Geyser -- Yellowstone National Park
@@ -97,7 +92,7 @@ After a long day on the south side of Yellowstone National Park taking photos of
 </p>
 
 <div style="width: 1034px" class="wp-caption alignnone">
-  <a title="View '2007-09-22at15-22-19' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694904508"><img style="border: 0px none;" title="Plano Balloon Festival, Plano, Texas" src="https://farm9.staticflickr.com/8150/7694904508_44ff217e4f_b.jpg" alt="Plano Balloon Festival, Plano, Texas" width="1024" height="768" border="0" /></a>
+  <a title="View '2007-09-22at15-22-19' on Flickr.com" href="https://www.flickr.com/photos/48315294@N00/7694904508">![Plano Balloon Festival, Plano, Texas](https://farm9.staticflickr.com/8150/7694904508_44ff217e4f_b.jpg")</a>
 
   <p class="wp-caption-text">
     Plano Balloon Festival, Plano, Texas

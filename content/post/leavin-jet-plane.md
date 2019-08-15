@@ -24,7 +24,7 @@ On board the plane, waiting for everyone else to board. Busy flight. PACKED! The
 
 Having given up our phones and having cancelled our cell data plan with Millenicom, I miss being able to pop in to Facebook and say silly things like “Hey, we’re getting on the plane now!” I’m not sure *how* the world will live without my live play-by-play commentary of such momentous occasions.
 
-<img class="alignright" style="margin: 5px;" title="I've looked at rainbows from both sides now" src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/420901_10151301707525437_648515436_22943658_1789912786_n.jpg" alt="" width="272" height="363" />
+![I've looked at rainbows from both sides now](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/420901_10151301707525437_648515436_22943658_1789912786_n.jpg")
 
 The weather forecast was for scattered showers and a potential for thunderstorms, but it looks like we managed to luck out so far, at least on the D/FW Airport end of things.
 
@@ -34,7 +34,7 @@ Also had someone who evidently got on board without properly checking in. The at
 
 So as soon as we got in the air we were above the fog bank lying on top of the D/FW Metromess. We’ve passed a few storm tops, but nothing severe so far (15 minutes in) and only occasional minor turbulence.
 
-<img class="alignleft" style="margin: 5px;" title="clouds from above" src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/403001_10151301707975437_648515436_22943660_406038730_n.jpg" alt="" width="285" height="381" />
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/403001_10151301707975437_648515436_22943660_406038730_n.jpg "clouds from above")
 
 Just had to scold Bryn. They announced that the movie was starting, so we plugged in our earbuds. We got a short preview, then a blank screen for several seconds. Bryn said “They hijacked the movie!” entirely too loud. I pointed out that she might not want to say the word ‘hijack’ on an airplane…
 
@@ -44,7 +44,9 @@ It feels a bit strange, this floating in the air. I’ve flown enough that it do
 
 Guy next to me must be a Mac fanboy like myself – he put an Apple logo sticker over the Dell logo on his laptop! LOL He calls this a ‘Dapple.’
 
-<img class="alignright" style="margin: 5px;" title="backpackin' it" src="https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/416907_10151301707790437_648515436_22943659_884868799_n.jpg" alt="" width="302" height="403" />LAX was crowded. No seats available anywhere! Finally parked against a wall like backpackers and grabbed a couple of burgers. First celebrity sighting – [Della Reese][3]. She came through on her scooter, an assistant in tow. Straight through to Virgin Airlines. Must be nice…
+![](https://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/416907_10151301707790437_648515436_22943659_884868799_n.jpg "backpackin' it")
+
+LAX was crowded. No seats available anywhere! Finally parked against a wall like backpackers and grabbed a couple of burgers. First celebrity sighting – [Della Reese][3]. She came through on her scooter, an assistant in tow. Straight through to Virgin Airlines. Must be nice…
 
 Alaska Air was much more proactive than American in controlling carry-on luggage issues. They asked if they could take our overhead bags and check them for us. We ended up leaving them at the end of the entrance ramp. The main difference on this leg was the seats. Much nicer than American! For most of the flight to Guadalajara you could see the Pacific Ocean out the right-side windows, then later the Baja Peninsula. Finally made it to Guadalajara airport. Surprise of surprises, our two checked bags from LAX ***and*** our main checked bag from DFW all made it just fine.
 
@@ -56,9 +58,7 @@ More initial thoughts on Mexico coming soon! [To see the entire photo album on F
 
 P.S. In case you were wondering, this is the song that the title of this post refers to...
 
-
-
-&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f52hXkjANws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  [1]: https://en.wikipedia.org/wiki/Margin_Call
  [2]: https://en.wikipedia.org/wiki/John_Madden#Fear_of_flying

@@ -14,13 +14,11 @@ tags:
 ---
 At long, LONG last we've finally purchased tickets for our next destination: Nicaragua! We are so excited. We'll even get to hook up with our buddy [Wes Nations][1] again! Fun times will be had. Sober times, not so much...
 
-<p style="text-align: center;">
-  <img class="size-full wp-image-2469 aligncenter" src="https://vagabondians.com/wp-content/uploads/2013/06/Nicaragua.png" alt="Nicaragua" width="529" height="510" />
-</p>
+![Nicaragua](/images/2013/06/Nicaragua.png)
 
 We have certainly enjoyed being able to see family and friends again, and even new family (sort of, long story) but living here is making us gain weight and spend too much money! We will miss my parents and brother and sister-in-law and my daughter and grandkids, and all of our friends, but we started getting antsy to get on the road again after about 90 days. But we did what we came to do, and now we're getting back to the travel. Here's a quick list of things we accomplished in addition to seeing people:
 
-  * <span style="line-height: 14px;">Bryn finished her TEFL certification and is now prepped to teach English</span>
+  * Bryn finished her TEFL certification and is now prepped to teach English
   * Bryn's sister in California got to fly in and visit us for a few days
   * Glenn discovered that people will actually pay for him to set up, maintain and repair web sites
   * Bryn got to fly to Michigan to visit her sister and family there
