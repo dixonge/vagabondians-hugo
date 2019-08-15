@@ -12,13 +12,9 @@ dsq_thread_id:
 categories:
   - News
 ---
-<div id="attachment_3728" style="width: 650px" class="wp-caption alignnone">
-  <a href="https://en.wikipedia.org/wiki/Popocatépetl"><img class="wp-image-3728 size-full" src="https://50.22.11.21/~dixonbui/vagabondians.com/wp-content/uploads/2014/07/popo1.jpg" alt="View of Popocatépetl, the active volcano in Puebla, Mexico, east of Mexico City, as seen from the window on the left side of our plane." width="640" height="480" /></a>
-
   <p class="wp-caption-text">
     Popocatépetl -- the active volcano in Puebla, Mexico, east of Mexico City
   </p>
-</div>
 
 Last year we almost made it. Unfortunately we screwed up and didn't think things through and ended up returning from Mexico to the U.S. after only 360 days abroad. We missed that landmark by five days!
 
