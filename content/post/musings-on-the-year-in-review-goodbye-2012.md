@@ -10,7 +10,7 @@ image:  /images/year-in-review.jpg
 categories:
   - News
 ---
-![Salsa with me!](https://glennhasa.website/Vagabondians-on-GitHub/images/2013/01/2012-In-Review.jpg)
+![Salsa with me!](/images/2013/01/2012-In-Review.jpg)
 
 As I read other bloggers' posts on the year-end/year-beginning, I realize that I can't even begin to touch on the deep insights and useful instructions for New Years' resolutions that many have written. And I'm a little weary of reading them, so I fear you may be too.
 

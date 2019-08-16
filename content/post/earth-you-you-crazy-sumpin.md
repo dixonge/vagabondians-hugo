@@ -6,11 +6,13 @@ authorDescription: "Court reporter turned internet bum"
 authorAvatar: "/images/bryn.jpg"
 # desc: "Court reporter turned internet bum"
 slug: /earth-you-you-crazy-sumpin/
-image:  /images/FreedomSculpture.jpg
+image:  /images/2012/01/FreedomSculpture.jpg
 categories:
   - News
 ---
-[<img class="alignleft  wp-image-1007" src="../images/2012/01/crazylady1.jpeg" alt="" width="201" height="251" />][1]Hello World, Bryn here, ready to dish out some truly mind-blowing drivel. Maybe I am just a bit on the odd side....  Anyway, here goes.  Enjoy!
+![](/images/2012/01/crazylady.jpeg)
+
+Hello World, Bryn here, ready to dish out some truly mind-blowing drivel. Maybe I am just a bit on the odd side....  Anyway, here goes.  Enjoy!
 
 Bryn, how did you, the shy, follow-along, go-with-the-flow girl end up in the wacky place in life you are in now? A bit, uh, risky, isn't it?
 
@@ -32,7 +34,9 @@ There came the point when we realized that we were busy doing the same thing day
 
 NO, NO, AND  NO!  *SUUUU-LLAPP!*  Get the hell out of the sheep line!  Now!  Live the life you want, and do things, see things, try to help some other people along the way.  Make a life that matters.  It's not too late!  Envision the dream life and then get out there and LIVE IT!
 
-[<img class="alignright  wp-image-1008" src="../images/2012/01/live.jpeg" alt="" width="225" height="225" />][2]Will we miss the security (real or imagined) of our jobs, our home, our stuff?  Will we hate traveling?  Will we hit the hard pavement with our faces, come up bloody, and have to admit defeat and end up badly compared to our former lives?  Maybe.  I think not, though.  So far it's been freaking amazing, but we're still in the in-between yet, still extracting ourselves from our former life to embark -- quite soon now -- on a completely different life.  We aren't jumping completely without parachutes, flimsy as they may be, but we are jumping.  Really, what's the worst that can happen?  Can it be overcome?  Is it worth a shot?  YES!  So if that makes me monkey-slinging-poo-CRAZY, then I guess I am.  But I have to try!
+![](/images/2012/01/live.jpeg)
+
+Will we miss the security (real or imagined) of our jobs, our home, our stuff?  Will we hate traveling?  Will we hit the hard pavement with our faces, come up bloody, and have to admit defeat and end up badly compared to our former lives?  Maybe.  I think not, though.  So far it's been freaking amazing, but we're still in the in-between yet, still extracting ourselves from our former life to embark -- quite soon now -- on a completely different life.  We aren't jumping completely without parachutes, flimsy as they may be, but we are jumping.  Really, what's the worst that can happen?  Can it be overcome?  Is it worth a shot?  YES!  So if that makes me monkey-slinging-poo-CRAZY, then I guess I am.  But I have to try!
 
 How's your life panning out?  What are your dreams?
 
@@ -43,8 +47,3 @@ What holds you back from what you really want?
 Is life just passing you by or are you truly happy?  I hope you are truly happy.  If you aren't, it's never too late till the proverbial singing happens.
 
 Can I help you?  Questions?   Comments?
-
-&nbsp;
-
- [1]: ../images/2012/01/crazylady1.jpeg
- [2]: ../images/2012/01/live.jpeg
